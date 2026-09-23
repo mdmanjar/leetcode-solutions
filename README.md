@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mdmanjar/leetcode-solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 ## Manacher
@@ -67,6 +69,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
