@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 <!---LeetCode Topics End-->
