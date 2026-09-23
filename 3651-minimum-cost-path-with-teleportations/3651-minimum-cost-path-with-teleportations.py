@@ -1,29 +1,48 @@
-from functools import cache
-
 class Solution:
     def minCost(self, grid: List[List[int]], k: int) -> int:
-        m,n=len(grid),len(grid[0])
-        cells=sorted((grid[i][j],i,j) for i in range(m) for j in range(n))
+        n,m=len(grid),len(grid[0])
 
-        @cache
-        def dfs(i,j,k):
-            if (i,j)==(m-1,n-1):
-                return 0
+        maxVal=0
+        for row in grid:
+            for v in row:
+                maxVal=max(maxVal,v)
 
-            ans=math.inf
+        dp=[[0]*m for _ in range(n)]
+        bestVal=[math.inf]*(maxVal+1)
+        prefix=[math.inf]*(maxVal+1)
 
-            if i+1<m:
-                ans=min(ans,grid[i+1][j]+dfs(i+1,j,k))
+        bestVal[grid[n-1][m-1]]=0
 
-            if j+1<n:
-                ans=min(ans,grid[i][j+1]+dfs(i,j+1,k))
+        for i in range(n-1,-1,-1):
+            for j in range(m-1,-1,-1):
+                if i==n-1 and j==m-1:
+                    continue
 
-            if k:
-                for v,x,y in cells:
-                    if v>grid[i][j]:
-                        break
-                    ans=min(ans,dfs(x,y,k-1))
+                down=dp[i+1][j]+grid[i+1][j] if i+1<n else math.inf
+                right=dp[i][j+1]+grid[i][j+1] if j+1<m else math.inf
 
-            return ans
+                dp[i][j]=min(down,right)
+                bestVal[grid[i][j]]=min(bestVal[grid[i][j]],dp[i][j])
 
-        return dfs(0,0,k)
+        for _ in range(k):
+            prefix[0]=bestVal[0]
+
+            for v in range(1,maxVal+1):
+                prefix[v]=min(prefix[v-1],bestVal[v])
+
+            for i in range(n-1,-1,-1):
+                for j in range(m-1,-1,-1):
+                    if i==n-1 and j==m-1:
+                        continue
+
+                    down=dp[i+1][j]+grid[i+1][j] if i+1<n else math.inf
+                    right=dp[i][j+1]+grid[i][j+1] if j+1<m else math.inf
+
+                    walk=min(down,right)
+
+                    dp[i][j]=min(walk,prefix[grid[i][j]])
+                    bestVal[grid[i][j]]=min(
+                        bestVal[grid[i][j]],dp[i][j]
+                    )
+
+        return dp[0][0]
