@@ -6,7 +6,7 @@ class Solution:
             g[u].append((v,cost,tax))
             g[v].append((u,cost,tax))
         
-        def without_apple(src,limit):
+        def without_apples(src,limit):
             dist=[math.inf]*n
             dist[src]=0
             hp=[(0,src)]
@@ -22,7 +22,7 @@ class Solution:
                         heapq.heappush(hp,(nd,v))
             return dist
 
-        def with_apples(src,limit,with_apple):
+        def with_apples(src,limit,without_apple):
             dist=[math.inf]*n
             dist[src]=0
             hp=[(0,src)]
@@ -30,17 +30,15 @@ class Solution:
             while hp:
                 d,u=heapq.heappop(hp)
                 if d!=dist[u]:continue
-                limit=min(limit,with_apple[u]+d+prices[u])
+                limit=min(limit,without_apple[u]+d+prices[u])
                 for v,w,tax in g[u]:
                     nd=d+(w*tax)
                     if nd<limit and nd<dist[v]:
                         dist[v]=nd
                         heapq.heappush(hp,(nd,v))
             return limit
-        ans=[]
-        for i in range(n):
-            ans.append(with_apples(i,prices[i],without_apple(i,prices[i])))
-        return ans
+        
+        return [with_apples(i,prices[i],without_apples(i,prices[i])) for i in range(n)]
             
 
         
