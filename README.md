@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
@@ -139,6 +140,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
@@ -237,4 +239,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
