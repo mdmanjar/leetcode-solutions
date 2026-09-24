@@ -1,63 +1,57 @@
 class Solution:
     def findMaxPathScore(self, edges: List[List[int]], online: List[bool], k: int) -> int:
-
         n=len(online)
-
         g=[[] for _ in range(n)]
-        right=0
+        deg=[0]*n
         left=math.inf
+        right=0
+
         for u,v,w in edges:
-            if not (online[u] and online[v]):continue
-            g[u].append((v,w))
-            right=max(right,w)
-            left=min(left,w)
+            if online[u] and online[v]:
+                g[u].append((v,w))
+                deg[v]+=1
+                left=min(left,w)
+                right=max(right,w)
 
-        # def topo_sort():
-        #     deg=[0]*n
+        def topo():
+            q=deque(i for i in range(n) if deg[i]==0)
+            arr=[]
 
-        #     for i in range(n):
-        #         for v,_ in g[i]:
-        #             deg[v]+=1
-        #     q=deque(i for i in range(n) if deg[i]==0)
-        #     ans=[]
+            while q:
+                u=q.popleft()
+                arr.append(u)
+                for v,_ in g[u]:
+                    deg[v]-=1
+                    if deg[v]==0:
+                        q.append(v)
 
-        #     while q:
-        #         u=q.popleft()
-        #         ans.append(u)
-        #         for v,_ in g[u]:
-        #             deg[v]-=1
-        #             if deg[v]==0:
-        #                 q.append(v)
-        #     return ans
+            return arr
 
-        # arr=topo_sort()
+        order=topo()
 
         def sort(limit):
-            dist=[inf]*n
+            dist=[math.inf]*n
             dist[0]=0
-            hp=[(0,0)]
 
-            while hp:
-                d,u=heapq.heappop(hp)
-                if u==n-1:return True
-                if d!=dist[u]:continue
+            for u in order:
+                if dist[u]==math.inf:
+                    continue
 
                 for v,w in g[u]:
-                    nd=w+d
-                    if w>=limit and nd<dist[v] and nd<=k:
-                        dist[v]=nd
-                        heapq.heappush(hp,(nd,v))
-            return False
+                    if w>=limit:
+                        dist[v]=min(dist[v],dist[u]+w)
+
+            return dist[n-1]<=k
+
         ans=-1
+
         while left<=right:
             mid=(left+right)//2
+
             if sort(mid):
                 ans=mid
                 left=mid+1
             else:
                 right=mid-1
-        return ans
-            
 
-            
-        
+        return ans
