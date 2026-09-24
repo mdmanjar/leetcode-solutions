@@ -33,6 +33,7 @@
 | [0002-add-two-numbers](https://github.com/mdmanjar/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +221,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 <!---LeetCode Topics End-->
