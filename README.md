@@ -8,6 +8,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -28,6 +29,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/mdmanjar/leetcode-solutions/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
@@ -145,6 +147,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
@@ -264,5 +267,6 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
