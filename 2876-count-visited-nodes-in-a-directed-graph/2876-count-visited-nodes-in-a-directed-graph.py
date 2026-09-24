@@ -14,11 +14,6 @@ class Solution:
                     length+=1
                     cycle[u]=2
                     u=edges[u]
-
-                while ans[u]==0:
-                    ans[u]=length
-                    u=edges[u]
-
                 return length
 
             cycle[u]=1
