@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -65,6 +66,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0935-knight-dialer](https://github.com/mdmanjar/leetcode-solutions/tree/main/0935-knight-dialer/) | Medium |
+| [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
@@ -80,6 +82,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
@@ -160,6 +163,7 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Greedy
@@ -229,4 +233,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 <!---LeetCode Topics End-->
