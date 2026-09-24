@@ -9,6 +9,7 @@ class Solution:
         mp={}
 
         for parent,_,_ in descriptions:
+            if parent in mp:continue
             mp[parent]=TreeNode(parent)
         
         for parent,child,isLeft in descriptions:
