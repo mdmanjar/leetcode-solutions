@@ -7,14 +7,14 @@ class Solution:
         # reverse graph: course -> prerequisites
         for u, v in relations:
             g[v].append(u)
-        dp={}
+        dp=[None]*n
 
         def dfs(u):
-            if u in dp:return dp[u]
+            if dp[u-1] is not None:return dp[u-1]
             ans = 0
             for v in g[u]:
                 ans = max(ans, dfs(v))
-            dp[u]=ans + time[u - 1]
-            return dp[u]
+            dp[u-1]=ans + time[u - 1]
+            return dp[u-1]
 
         return max(dfs(i) for i in range(1, n + 1))
