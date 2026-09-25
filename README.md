@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1001-grid-illumination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1001-grid-illumination/) | Hard |
@@ -151,6 +152,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
@@ -190,6 +192,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1095-find-in-mountain-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -481,4 +484,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
