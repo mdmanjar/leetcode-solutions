@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -547,6 +548,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0126-word-ladder-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0140-word-break-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
@@ -646,5 +648,6 @@
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
