@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/mdmanjar/leetcode-solutions/tree/main/0135-candy/) | Hard |
@@ -112,6 +113,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/mdmanjar/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0076-minimum-window-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/mdmanjar/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
@@ -445,6 +447,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 ## Directed Acyclic Graph
