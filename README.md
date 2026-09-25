@@ -9,6 +9,7 @@
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
@@ -80,6 +81,7 @@
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0935-knight-dialer](https://github.com/mdmanjar/leetcode-solutions/tree/main/0935-knight-dialer/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
@@ -96,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/mdmanjar/leetcode-solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
@@ -127,6 +130,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
@@ -152,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
@@ -198,6 +203,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2360-longest-cycle-in-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -223,6 +229,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2360-longest-cycle-in-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2360-longest-cycle-in-a-graph/) | Hard |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -280,6 +287,7 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
