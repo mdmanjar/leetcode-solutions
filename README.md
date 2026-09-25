@@ -47,6 +47,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1001-grid-illumination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1001-grid-illumination/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
@@ -311,6 +312,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 ## Suffix Array
 | Problem Name | Difficulty |
@@ -396,6 +398,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
@@ -410,6 +413,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
