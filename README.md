@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1001-grid-illumination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1001-grid-illumination/) | Hard |
 | [1095-find-in-mountain-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
@@ -159,6 +160,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -428,6 +430,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Biconnected Component
 | Problem Name | Difficulty |
@@ -449,4 +452,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
