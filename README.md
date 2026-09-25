@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mdmanjar/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/mdmanjar/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [1669-merge-in-between-linked-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
@@ -108,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mdmanjar/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/mdmanjar/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
