@@ -45,6 +45,7 @@
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -235,6 +236,7 @@
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3928-minimum-cost-to-buy-apples-ii/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mdmanjar/leetcode-solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
@@ -254,6 +256,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
@@ -280,6 +283,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1095-find-in-mountain-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
@@ -307,6 +311,7 @@
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2608-shortest-cycle-in-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2608-shortest-cycle-in-a-graph/) | Hard |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
@@ -319,6 +324,7 @@
 | [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
