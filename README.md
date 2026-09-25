@@ -107,6 +107,7 @@
 | [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3848-check-digitorial-permutation](https://github.com/mdmanjar/leetcode-solutions/tree/main/3848-check-digitorial-permutation/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -373,6 +374,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3848-check-digitorial-permutation](https://github.com/mdmanjar/leetcode-solutions/tree/main/3848-check-digitorial-permutation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
