@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/mdmanjar/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
@@ -61,6 +62,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0041-first-missing-positive](https://github.com/mdmanjar/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/mdmanjar/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
