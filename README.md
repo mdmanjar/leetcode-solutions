@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
@@ -173,6 +174,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -548,10 +550,12 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -560,6 +564,7 @@
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
@@ -582,4 +587,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
