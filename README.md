@@ -9,6 +9,7 @@
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
@@ -50,6 +51,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mdmanjar/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 ## Recursion
@@ -174,6 +176,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mdmanjar/leetcode-solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
 | [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
@@ -190,6 +193,7 @@
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
+| [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/2458-height-of-binary-tree-after-subtree-removal-queries/) | Hard |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
@@ -333,4 +337,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 <!---LeetCode Topics End-->
