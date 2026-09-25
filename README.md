@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -86,6 +87,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0935-knight-dialer](https://github.com/mdmanjar/leetcode-solutions/tree/main/0935-knight-dialer/) | Medium |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
@@ -103,6 +105,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
@@ -394,6 +397,7 @@
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
