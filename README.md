@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
+| [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
@@ -169,6 +170,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
@@ -205,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
+| [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
@@ -224,6 +227,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -258,6 +262,7 @@
 | ------- | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
 | [0968-binary-tree-cameras](https://github.com/mdmanjar/leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
