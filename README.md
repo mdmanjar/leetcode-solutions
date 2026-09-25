@@ -31,6 +31,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -191,6 +192,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
@@ -227,6 +229,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
@@ -258,6 +261,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
@@ -567,6 +571,7 @@
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 ## Backtracking
