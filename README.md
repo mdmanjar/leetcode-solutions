@@ -111,6 +111,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/mdmanjar/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0115-distinct-subsequences](https://github.com/mdmanjar/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0126-word-ladder-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/mdmanjar/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0140-word-break-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
@@ -132,6 +133,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0115-distinct-subsequences](https://github.com/mdmanjar/leetcode-solutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0140-word-break-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
