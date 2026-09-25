@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/mdmanjar/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/mdmanjar/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0037-sudoku-solver](https://github.com/mdmanjar/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0041-first-missing-positive](https://github.com/mdmanjar/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0126-word-ladder-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
@@ -227,6 +229,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/mdmanjar/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0212-word-search-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -555,6 +558,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/mdmanjar/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
 | [0126-word-ladder-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
@@ -655,6 +659,11 @@
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/mdmanjar/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0052-n-queens-ii/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/mdmanjar/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
