@@ -96,6 +96,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0935-knight-dialer](https://github.com/mdmanjar/leetcode-solutions/tree/main/0935-knight-dialer/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/mdmanjar/leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1092-shortest-common-supersequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1289-minimum-falling-path-sum-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
@@ -226,6 +227,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/mdmanjar/leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -246,6 +248,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/mdmanjar/leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -370,6 +373,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/mdmanjar/leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
@@ -460,4 +464,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0968-binary-tree-cameras](https://github.com/mdmanjar/leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 <!---LeetCode Topics End-->
