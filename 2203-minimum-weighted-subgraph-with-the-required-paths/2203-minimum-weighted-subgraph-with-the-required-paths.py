@@ -8,7 +8,7 @@ class Solution:
             g[u].append((v,w))
             rg[v].append((u,w))
         
-        def dijkstra(src,g):
+        def dijkstra(src,graph=g):
             dist=[inf]*n
             hp=[(0,src)]
             dist[src]=0
@@ -16,15 +16,15 @@ class Solution:
             while hp:
                 d,u=heapq.heappop(hp)
                 if d!=dist[u]:continue
-                for v,w in g[u]:
+                for v,w in graph[u]:
                     nd=d+w
                     if nd<dist[v]:
                         dist[v]=nd
                         heapq.heappush(hp,(nd,v))
             return dist
-        d1=dijkstra(src1,g)
+        d1=dijkstra(src1)
         if d1[dst]==inf:return -1
-        d2=dijkstra(src2,g)
+        d2=dijkstra(src2)
         if d2[dst]==inf:return -1
         d3=dijkstra(dst,rg)
         ans=inf
