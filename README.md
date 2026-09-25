@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
@@ -93,6 +94,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/mdmanjar/leetcode-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [1092-shortest-common-supersequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
@@ -128,6 +130,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
@@ -159,6 +162,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
@@ -271,6 +275,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -417,6 +422,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -535,4 +541,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Semi-Eulerian Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
