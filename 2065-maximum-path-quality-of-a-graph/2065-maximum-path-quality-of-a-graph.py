@@ -14,6 +14,7 @@ class Solution:
             if visit[u]==0:
                 sm+=values[u]
             if u==0:ans=max(ans,sm)
+            if time==0:return
             visit[u]+=1
             for v,t in g[u]:
                 if time-t>=0:
