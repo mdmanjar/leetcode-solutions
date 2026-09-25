@@ -17,7 +17,7 @@ class Solution:
                     colored.append(dfs(i,j,len(colored)))
         
         if len(colored)==2:return 1
-        if len(colored)==3 and colored[-1]==n*n:return n*n
+        if len(colored)==3:return min(n*n,colored[-1]+1)
         ans=1
         for i in range(n):
             for j in range(n):
