@@ -109,6 +109,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -235,6 +236,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
@@ -417,4 +419,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
+## Biconnected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Bridge (Graph)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 <!---LeetCode Topics End-->
