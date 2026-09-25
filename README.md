@@ -9,6 +9,7 @@
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
@@ -167,6 +168,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mdmanjar/leetcode-solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
@@ -293,6 +295,7 @@
 | [2331-evaluate-boolean-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2331-evaluate-boolean-binary-tree/) | Easy |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 | [2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/mdmanjar/leetcode-solutions/tree/main/2471-minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | Medium |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 ## Sorting
@@ -303,4 +306,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2509-cycle-length-queries-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2509-cycle-length-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
