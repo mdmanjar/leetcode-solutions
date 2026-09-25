@@ -1,20 +1,25 @@
-from functools import cache
-
 class Solution:
-    def minimumTime(self, n: int, relations: List[List[int]], time: List[int]) -> int:
-        g = [[] for _ in range(n + 1)]
+    def minimumTime(self, n: int, relations: list[list[int]], time: list[int]) -> int:
+        g=[[] for _ in range(n)]
+        deg=[0]*n
+        for u,v in relations:
+            g[v-1].append(u-1)
+            deg[u-1]+=1
+        x=[0]*n
+        q=deque()
+        for i in range(n):
+            if deg[i]==0:
+                # x[i]=time[i]
+                q.append(i)
 
-        # reverse graph: course -> prerequisites
-        for u, v in relations:
-            g[v].append(u)
-        dp=[None]*n
-
-        def dfs(u):
-            if dp[u-1] is not None:return dp[u-1]
-            ans = 0
+        ans=0
+        while q:
+            u=q.popleft()
+            ans=max(x[u]+time[u],ans)
             for v in g[u]:
-                ans = max(ans, dfs(v))
-            dp[u-1]=ans + time[u - 1]
-            return dp[u-1]
+                deg[v]-=1
+                x[v]=max(x[v],x[u]+time[u])
+                if deg[v]==0:q.append(v)
+        return ans
 
-        return max(dfs(i) for i in range(1, n + 1))
+        
