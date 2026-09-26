@@ -59,6 +59,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -295,6 +296,7 @@
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/mdmanjar/leetcode-solutions/tree/main/3924-minimum-threshold-path-with-limited-heavy-edges/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -507,6 +509,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -540,6 +543,7 @@
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -743,4 +747,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 <!---LeetCode Topics End-->
