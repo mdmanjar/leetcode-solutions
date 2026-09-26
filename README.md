@@ -79,6 +79,7 @@
 | [0126-word-ladder-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/mdmanjar/leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0140-word-break-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
+| [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -102,6 +103,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdmanjar/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [1669-merge-in-between-linked-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
@@ -552,6 +554,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
@@ -589,6 +592,7 @@
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 ## 0-1 BFS
