@@ -38,6 +38,7 @@
 | [0414-third-maximum-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/mdmanjar/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/mdmanjar/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
