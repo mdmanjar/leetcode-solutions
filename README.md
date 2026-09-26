@@ -12,6 +12,7 @@
 | [0041-first-missing-positive](https://github.com/mdmanjar/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0066-plus-one](https://github.com/mdmanjar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -122,6 +123,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/mdmanjar/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0060-permutation-sequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0066-plus-one](https://github.com/mdmanjar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0224-basic-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0282-expression-add-operators](https://github.com/mdmanjar/leetcode-solutions/tree/main/0282-expression-add-operators/) | Hard |
