@@ -18,7 +18,7 @@ class Solution:
                     temp.append(nums[j])
                     j+=1
             
-            nums[left:right+1]=temp[:]+nums[i:mid+1]+nums[j:right+1]
+            nums[left:right+1]=temp+nums[i:mid+1]+nums[j:right+1]
         
         divid(0,len(nums)-1)
         return nums
