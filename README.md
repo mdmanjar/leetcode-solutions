@@ -29,6 +29,7 @@
 | [0217-contains-duplicate](https://github.com/mdmanjar/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0283-move-zeroes](https://github.com/mdmanjar/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -159,6 +160,7 @@
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0283-move-zeroes](https://github.com/mdmanjar/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## String
 | Problem Name | Difficulty |
