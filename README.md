@@ -39,6 +39,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/mdmanjar/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mdmanjar/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -109,6 +110,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
@@ -642,6 +644,7 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0224-basic-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
+| [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
@@ -651,6 +654,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
