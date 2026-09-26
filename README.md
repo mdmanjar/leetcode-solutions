@@ -33,6 +33,7 @@
 | [1289-minimum-falling-path-sum-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1289-minimum-falling-path-sum-ii/) | Hard |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -106,6 +107,7 @@
 | [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
+| [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
@@ -563,6 +565,7 @@
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
+| [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Binary Lifting
@@ -580,6 +583,7 @@
 | [0224-basic-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
+| [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 ## Monotonic Stack
@@ -597,6 +601,7 @@
 | [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
+| [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 ## 0-1 BFS
 | Problem Name | Difficulty |
@@ -694,6 +699,7 @@
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
