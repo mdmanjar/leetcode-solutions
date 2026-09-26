@@ -1,39 +1,25 @@
 class Solution:
-    def sortArray(self, nums):
-        neg=[-x for x in nums if x<0]
-        pos=[x for x in nums if x>=0]
+    def sortArray(self, nums: list[int]) -> list[int]:
 
-        def radix_sort(nums):
-            if not nums:return nums
-            mx=max(nums)
+        def divid(left,right):
+            nonlocal nums
+            if left>=right:return
+            mid=left+(right-left)//2
+            divid(left,mid)
+            divid(mid+1,right)
 
-            def count_sort(x):
-                count=[0]*10
-
-                for e in nums:
-                    count[(e//x)%10]+=1
-
-                for i in range(1,10):
-                    count[i]+=count[i-1]
-
-                ans=[0]*len(nums)
-
-                for i in range(len(nums)-1,-1,-1):
-                    d=(nums[i]//x)%10
-                    idx=count[d]-1
-                    ans[idx]=nums[i]
-                    count[d]-=1
-
-                nums[:]=ans
-
-            x=1
-            while mx//x:
-                count_sort(x)
-                x*=10
-
-            return nums
-
-        radix_sort(neg)
-        radix_sort(pos)
-
-        return [-x for x in reversed(neg)]+pos
+            i,j=left,mid+1
+            temp=[]
+            while i<=mid and j<=right:
+                if nums[i]<nums[j]:
+                    temp.append(nums[i])
+                    i+=1
+                else:
+                    temp.append(nums[j])
+                    j+=1
+            
+            nums[left:right+1]=temp[:]+nums[i:mid+1]+nums[j:right+1]
+        
+        divid(0,len(nums)-1)
+        return nums
+        
