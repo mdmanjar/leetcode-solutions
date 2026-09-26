@@ -14,6 +14,7 @@
 | [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0066-plus-one](https://github.com/mdmanjar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
+| [0088-merge-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0135-candy](https://github.com/mdmanjar/leetcode-solutions/tree/main/0135-candy/) | Hard |
@@ -146,6 +147,7 @@
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0088-merge-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## String
@@ -559,6 +561,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
