@@ -36,6 +36,7 @@
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
@@ -109,6 +110,7 @@
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 ## Math
@@ -566,6 +568,7 @@
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 ## Binary Lifting
@@ -602,6 +605,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 ## 0-1 BFS
 | Problem Name | Difficulty |
@@ -673,6 +677,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -700,6 +705,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
+| [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
