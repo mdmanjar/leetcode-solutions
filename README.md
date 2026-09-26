@@ -33,6 +33,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mdmanjar/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -98,6 +99,7 @@
 | [0169-majority-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/mdmanjar/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -163,6 +165,7 @@
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/mdmanjar/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -325,6 +328,7 @@
 | [0035-search-insert-position](https://github.com/mdmanjar/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -587,6 +591,7 @@
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
