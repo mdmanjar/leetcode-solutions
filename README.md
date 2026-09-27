@@ -87,6 +87,7 @@
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3809-best-reachable-tower](https://github.com/mdmanjar/leetcode-solutions/tree/main/3809-best-reachable-tower/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/mdmanjar/leetcode-solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
@@ -136,6 +137,7 @@
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/mdmanjar/leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -791,6 +793,7 @@
 | [0076-minimum-window-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
