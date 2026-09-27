@@ -3,10 +3,8 @@ class Solution:
         stack=[]
 
         for e in nums:
-
             while stack and stack[-1]==e:
-                e=stack.pop()+e
+                e+=stack.pop()
             stack.append(e)
         return stack
-
         
