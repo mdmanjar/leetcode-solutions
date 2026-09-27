@@ -1,32 +1,26 @@
-from collections import defaultdict
-from typing import List
-
 class Solution:
     def minLength(self, nums: List[int], k: int) -> int:
-        n = len(nums)
-        ans = n + 1
-        left = sm = 0
-        freq = defaultdict(int)
+        ans=inf
+        left=0
+        mp=defaultdict(int)
+        sm=0
 
-        for right, e in enumerate(nums):
-            sm += e
-            freq[e] += 1
 
-            # Resolve duplicates: shrink left until 'e' appears only once
-            while freq[e] > 1:
-                sm -= nums[left]
-                freq[nums[left]] -= 1
-                if freq[nums[left]] == 0:
-                    del freq[nums[left]]
-                left += 1
+        left=0
 
-            # Shrink window while sum condition is met
-            while sm >= k:
-                ans = min(ans, right - left + 1)
-                sm -= nums[left]
-                freq[nums[left]] -= 1
-                if freq[nums[left]] == 0:
-                    del freq[nums[left]]
-                left += 1
+        for right,e in enumerate(nums):
+            if e not in mp:
+                sm+=e
+            mp[e]+=1
+            while sm>=k:
+                ans=min(right-left+1,ans)
+                x=nums[left]
+                mp[x]-=1
+                if mp[x]==0:
+                    sm-=nums[left]
+                    del mp[x]
+                left+=1
+            if ans==1:
+                return ans
 
-        return ans if ans != n + 1 else -1
+        return ans if ans!=inf else -1
