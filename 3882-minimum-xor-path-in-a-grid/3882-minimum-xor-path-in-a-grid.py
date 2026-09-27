@@ -1,10 +1,11 @@
+from  functools import cache
 class Solution:
     def minCost(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
         ans = float('inf')
 
-        memo = [[[False] * 1024 for _ in range(n)] for _ in range(m)]
-
+        # memo = [[[False] * 1024 for _ in range(n)] for _ in range(m)]
+        @cache
         def dfs(i, j, xor):
             nonlocal ans
 
@@ -16,10 +17,10 @@ class Solution:
             if ans == 0:
                 return
 
-            if memo[i][j][xor]:
-                return
+            # if memo[i][j][xor]:
+            #     return
 
-            memo[i][j][xor] = True
+            # memo[i][j][xor] = True
 
             if i == m - 1 and j == n - 1:
                 ans = min(ans, xor)
