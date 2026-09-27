@@ -1,33 +1,21 @@
 class Solution:
     def colorGrid(self, n: int, m: int, sources: list[list[int]]) -> list[list[int]]:
+        grid=[[0]*m for _ in range(n)]
         sources.sort(key=lambda x:x[2],reverse=True)
-        m,n=n,m
-        grid=[[0]*n for _ in range(m)]
         q=deque()
-
-        dirs=(-1,0,1,0)
-
-
+        
         for i,j,color in sources:
-            q.append((i,j,color))
             grid[i][j]=color
-
-
-
+            q.append((i,j,color))
+        
+        dir=(-1,0,1,0)
         while q:
-            sz=len(q)
+            i,j,color=q.popleft()
 
-            for _ in range(sz):
-                i,j,color=q.popleft()
-
-                for k in range(4):
-                    u=i+dirs[k]
-                    v=j+dirs[3-k]
-
-                    if not (-1<u<m and -1<v<n and not grid[u][v]):
-                        continue
+            for k in range(4):
+                u,v=i+dir[k],j+dir[3-k]
+                if -1<u<n and -1<v<m and grid[u][v]==0:
                     grid[u][v]=color
                     q.append((u,v,color))
         return grid
-            
         
