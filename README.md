@@ -91,6 +91,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/mdmanjar/leetcode-solutions/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/mdmanjar/leetcode-solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3928-minimum-cost-to-buy-apples-ii/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mdmanjar/leetcode-solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
@@ -132,6 +133,7 @@
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/mdmanjar/leetcode-solutions/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
+| [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +310,7 @@
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3928-minimum-cost-to-buy-apples-ii/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mdmanjar/leetcode-solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
@@ -522,6 +525,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
+| [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
 ## Suffix Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -649,6 +653,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
