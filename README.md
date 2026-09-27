@@ -66,6 +66,7 @@
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
@@ -202,6 +203,7 @@
 | [1092-shortest-common-supersequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -459,6 +461,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3848-check-digitorial-permutation](https://github.com/mdmanjar/leetcode-solutions/tree/main/3848-check-digitorial-permutation/) | Medium |
@@ -519,6 +522,7 @@
 | [0140-word-break-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0212-word-search-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
