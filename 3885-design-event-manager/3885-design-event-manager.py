@@ -5,6 +5,8 @@ class node:
         self.active=True
 
     def __lt__(self,other):
+        # if not self.active:
+        #     return True
         if self.priority!=other.priority:
             return self.priority>other.priority
         return self.id<other.id
@@ -22,6 +24,8 @@ class EventManager:
         heapq.heapify(self.hp)
 
     def updatePriority(self, eventId: int, newPriority: int) -> None:
+        while self.hp and not self.hp[0].active:
+            heapq.heappop(self.hp)
         if eventId in self.mp:
             self.mp[eventId].active=False
         x=node(eventId,newPriority)
