@@ -4,9 +4,12 @@ class Solution:
         ans=0
 
         for word in words:
-            cnt=[0]*26
-            for c in word:cnt[((ord(c)-97)-ord(word[0])-97)%26]+=1
-            x=tuple(cnt)
+            p=ord(word[0])-97
+            temp=[]
+            for c in word:
+                i=ord(c)-97
+                temp.append(chr((i-p+26)%26+97))
+            x=''.join(temp)
             ans+=mp[x]
             mp[x]+=1
         return ans
