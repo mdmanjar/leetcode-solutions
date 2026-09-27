@@ -6,8 +6,8 @@ class Solution:
             t=root
             for c in word:
                 t=t.setdefault(c,{})
-                if '#' not in t:t['#']=0
-                t['#']+=1
+                t['#']=t.get('#',0)+1
+
         def cal(word):
             t=root
             ans=0
