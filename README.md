@@ -120,6 +120,7 @@
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [1001-grid-illumination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1001-grid-illumination/) | Hard |
+| [1079-letter-tile-possibilities](https://github.com/mdmanjar/leetcode-solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -202,6 +203,7 @@
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0500-keyboard-row](https://github.com/mdmanjar/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/mdmanjar/leetcode-solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
@@ -465,6 +467,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1079-letter-tile-possibilities](https://github.com/mdmanjar/leetcode-solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
@@ -706,6 +709,7 @@
 | [0282-expression-add-operators](https://github.com/mdmanjar/leetcode-solutions/tree/main/0282-expression-add-operators/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/mdmanjar/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
+| [1079-letter-tile-possibilities](https://github.com/mdmanjar/leetcode-solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 ## Biconnected Component
