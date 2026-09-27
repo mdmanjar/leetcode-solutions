@@ -91,6 +91,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/mdmanjar/leetcode-solutions/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/mdmanjar/leetcode-solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3928-minimum-cost-to-buy-apples-ii/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mdmanjar/leetcode-solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
@@ -329,6 +330,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
+| [3905-multi-source-flood-fill](https://github.com/mdmanjar/leetcode-solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
@@ -391,6 +393,7 @@
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
+| [3905-multi-source-flood-fill](https://github.com/mdmanjar/leetcode-solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/mdmanjar/leetcode-solutions/tree/main/3924-minimum-threshold-path-with-limited-heavy-edges/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
