@@ -83,6 +83,7 @@
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
@@ -262,6 +263,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
