@@ -85,6 +85,7 @@
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
@@ -260,6 +261,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mdmanjar/leetcode-solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
@@ -345,6 +347,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
+| [3742-maximum-path-score-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3905-multi-source-flood-fill](https://github.com/mdmanjar/leetcode-solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/4003-minimum-cost-path-with-alternating-directions-iii/) | Hard |
