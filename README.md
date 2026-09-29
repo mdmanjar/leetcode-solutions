@@ -81,6 +81,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/mdmanjar/leetcode-solutions/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -141,6 +142,7 @@
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/mdmanjar/leetcode-solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
@@ -354,6 +356,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -419,6 +422,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
+| [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3905-multi-source-flood-fill](https://github.com/mdmanjar/leetcode-solutions/tree/main/3905-multi-source-flood-fill/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/mdmanjar/leetcode-solutions/tree/main/3924-minimum-threshold-path-with-limited-heavy-edges/) | Hard |
