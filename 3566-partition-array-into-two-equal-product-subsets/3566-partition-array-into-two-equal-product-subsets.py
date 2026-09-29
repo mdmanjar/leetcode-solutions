@@ -3,6 +3,7 @@ class Solution:
         pro = 1
 
         for e in nums:
+            if target%e:return False
             pro *= e
 
         if pro != target * target:
