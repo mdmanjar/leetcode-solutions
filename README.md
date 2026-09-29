@@ -81,6 +81,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/mdmanjar/leetcode-solutions/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
@@ -188,6 +189,7 @@
 | [0060-permutation-sequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
 | [0224-basic-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/mdmanjar/leetcode-solutions/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -713,6 +715,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/mdmanjar/leetcode-solutions/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -776,6 +779,7 @@
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0980-unique-paths-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0980-unique-paths-iii/) | Hard |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/mdmanjar/leetcode-solutions/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Hamiltonian Path
 | Problem Name | Difficulty |
