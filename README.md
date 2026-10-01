@@ -78,6 +78,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -382,6 +383,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3195-find-the-minimum-area-to-cover-all-ones-i/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
