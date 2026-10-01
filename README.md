@@ -81,6 +81,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
@@ -144,6 +145,7 @@
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/mdmanjar/leetcode-solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
@@ -239,6 +241,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+| [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/mdmanjar/leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Dynamic Programming
@@ -513,6 +516,7 @@
 | [1079-letter-tile-possibilities](https://github.com/mdmanjar/leetcode-solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
+| [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/mdmanjar/leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
