@@ -16,7 +16,7 @@ class Solution:
 
                 if not (-1<u<m and -1<v<n):continue
                 new_d=max(d,grid[u][v])+1
-                if new_d>=dist[u][v]:continue
+                if new_d>=dist[u][v] or new_d>=dist[-1][-1]:continue
                 if new_d==d+1:
                     q.appendleft((u,v))
                 else:
