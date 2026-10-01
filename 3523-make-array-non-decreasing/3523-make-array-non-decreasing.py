@@ -1,8 +1,11 @@
 class Solution:
     def maximumPossibleSize(self, nums: List[int]) -> int:
-        stack=[0]
+        top=0
 
-        for e in nums:
-            if stack[-1]<=e:stack.append(e)
-        return len(stack)-1
+        for e in nums[1:]:
+            if nums[top]<=e:
+                top+=1
+                nums[top]=e
+
+        return top+1
         
