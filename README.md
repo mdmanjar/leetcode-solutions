@@ -81,6 +81,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdmanjar/leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
@@ -277,6 +278,7 @@
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
@@ -368,6 +370,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdmanjar/leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
