@@ -81,6 +81,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -146,6 +147,7 @@
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/mdmanjar/leetcode-solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
@@ -241,6 +243,7 @@
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
+| [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
@@ -364,6 +367,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/mdmanjar/leetcode-solutions/tree/main/3651-minimum-cost-path-with-teleportations/) | Hard |
@@ -701,6 +705,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
+| [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
