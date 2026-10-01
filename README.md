@@ -80,6 +80,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdmanjar/leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
@@ -320,6 +321,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -348,6 +350,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3928-minimum-cost-to-buy-apples-ii/) | Hard |
@@ -370,6 +373,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3446-sort-matrix-by-diagonals](https://github.com/mdmanjar/leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
@@ -390,6 +394,7 @@
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3928-minimum-cost-to-buy-apples-ii/) | Hard |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/mdmanjar/leetcode-solutions/tree/main/3977-minimum-time-to-reach-target-with-limited-power/) | Hard |
