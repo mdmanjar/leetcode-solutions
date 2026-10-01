@@ -80,6 +80,7 @@
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -150,6 +151,7 @@
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/mdmanjar/leetcode-solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -247,6 +249,7 @@
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
@@ -493,6 +496,7 @@
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/3772-maximum-subgraph-score-in-a-tree/) | Hard |
@@ -524,6 +528,7 @@
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mdmanjar/leetcode-solutions/tree/main/2858-minimum-edge-reversals-so-every-node-is-reachable/) | Hard |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/mdmanjar/leetcode-solutions/tree/main/3203-find-minimum-diameter-after-merging-two-trees/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
