@@ -81,6 +81,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -545,6 +546,7 @@
 | [0135-candy](https://github.com/mdmanjar/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/mdmanjar/leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 ## Minimum Spanning Tree
@@ -719,6 +721,7 @@
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/mdmanjar/leetcode-solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -726,6 +729,7 @@
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
+| [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
