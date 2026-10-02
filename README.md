@@ -65,6 +65,7 @@
 | [2050-parallel-courses-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2050-parallel-courses-iii/) | Hard |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2065-maximum-path-quality-of-a-graph/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2241-design-an-atm-machine](https://github.com/mdmanjar/leetcode-solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
@@ -578,6 +579,7 @@
 | ------- | ------- |
 | [0135-candy](https://github.com/mdmanjar/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2241-design-an-atm-machine](https://github.com/mdmanjar/leetcode-solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -733,6 +735,7 @@
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [2241-design-an-atm-machine](https://github.com/mdmanjar/leetcode-solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
