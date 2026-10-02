@@ -71,6 +71,7 @@
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
 | [2326-spiral-matrix-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
@@ -251,6 +252,7 @@
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
@@ -359,6 +361,7 @@
 | [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2203-minimum-weighted-subgraph-with-the-required-paths/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
@@ -681,6 +684,7 @@
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -722,6 +726,7 @@
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -951,6 +956,7 @@
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/mdmanjar/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -972,6 +978,7 @@
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
