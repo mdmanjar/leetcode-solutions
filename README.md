@@ -68,6 +68,7 @@
 | [2241-design-an-atm-machine](https://github.com/mdmanjar/leetcode-solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/mdmanjar/leetcode-solutions/tree/main/2246-longest-path-with-different-adjacent-characters/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2326-spiral-matrix-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
@@ -185,6 +186,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
+| [2326-spiral-matrix-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -382,6 +384,7 @@
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mdmanjar/leetcode-solutions/tree/main/1293-shortest-path-in-a-grid-with-obstacles-elimination/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/mdmanjar/leetcode-solutions/tree/main/2290-minimum-obstacle-removal-to-reach-corner/) | Hard |
+| [2326-spiral-matrix-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2328-number-of-increasing-paths-in-a-grid/) | Hard |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2577-minimum-time-to-visit-a-cell-in-a-grid/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -662,6 +665,7 @@
 | [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
+| [2326-spiral-matrix-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2326-spiral-matrix-iv/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/mdmanjar/leetcode-solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
