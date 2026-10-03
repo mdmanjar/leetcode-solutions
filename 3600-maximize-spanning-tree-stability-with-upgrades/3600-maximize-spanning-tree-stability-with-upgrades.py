@@ -1,126 +1,71 @@
-
-class dsu:
-
-    def __init__(self, n):
-        self.p = [-1] * n
-
-    def union(self, a, b):
-        a, b = self.find(a), self.find(b)
-
-        if a == b:
-            return False
-
-        if self.p[a] > self.p[b]:
-            a, b = b, a
-
-        self.p[a] += self.p[b]
-        self.p[b] = a
-
-        return True
-
-    def find(self, a):
-        if self.p[a] < 0:
-            return a
-
-        self.p[a] = self.find(self.p[a])
-        return self.p[a]
-
-
 class Solution:
+    def maxStability(self, n: int, edges: List[List[int]], k: int) -> int:
 
-    def maxStability(
-        self,
-        n: int,
-        edges: List[List[int]],
-        k: int
-    ) -> int:
+        p = [-1] * n
 
-        minimum_weight = math.inf
+        def find(x):
+            if p[x] < 0:
+                return x
+            p[x] = find(p[x])
+            return p[x]
+
+        def union(a, b):
+            a = find(a)
+            b = find(b)
+
+            if a == b:
+                return False
+
+            if p[a] > p[b]:
+                a, b = b, a
+
+            p[a] += p[b]
+            p[b] = a
+            return True
+
         optional = []
-        must = []
+        remaining = n - 1
+        min_must = float('inf')
 
         for u, v, s, m in edges:
-
             if m:
-                must.append((u, v, s))
+                if not union(u,v): return -1
+                remaining-=1
+                min_must = min(min_must,s)
             else:
                 optional.append((u, v, s))
 
-        # Mandatory edges must form a forest.
-        uf = dsu(n)
+        if remaining == 0:
+            return min_must
 
-        for u, v, s in must:
+        # Pick strongest optional edges
+        optional.sort(key=lambda x: x[2], reverse=True)
 
-            if not uf.union(u, v):
-                return -1
+        chosen = []
 
-            minimum_weight = min(minimum_weight, s)
+        for u, v, s in optional:
+            if union(u, v):
+                chosen.append(s)
+                remaining -= 1
 
-        def can(mid):
+                if remaining == 0:
+                    break
 
-            uf = dsu(n)
+        if remaining:
+            return -1
 
-            # Mandatory edges must have stability >= mid.
-            for u, v, s in must:
 
-                if s < mid:
-                    return False
 
-                uf.union(u, v)
+        if k >= len(chosen):
+            return min(min_must, 2 * chosen[-1])
 
-            used = 0
+        # k weakest edges are upgraded.
+        #
+        # weakest upgraded = chosen[-1]
+        # weakest NOT upgraded = chosen[-k-1]
 
-            # First use optional edges without doubling.
-            for u, v, s in optional:
-
-                if s < mid:
-                    continue
-
-                if uf.union(u, v):
-                    used += 0
-
-            # Then use optional edges with doubling.
-            for u, v, s in optional:
-
-                if s >= mid:
-                    continue
-
-                if s * 2 < mid:
-                    continue
-
-                if uf.union(u, v):
-                    used += 1
-
-                    if used > k:
-                        return False
-
-            # Check whether everything is connected.
-            root = uf.find(0)
-
-            for i in range(1, n):
-                if uf.find(i) != root:
-                    return False
-
-            return True
-
-        left = 0
-        right = max(
-            [s for _, _, s, _ in edges] +
-            [s * 2 for _, _, s, m in edges if not m]
+        return min(
+            min_must,
+            2 * chosen[-1],
+            chosen[-k - 1]
         )
-
-        ans = -1
-
-        while left <= right:
-
-            mid = left + (right - left) // 2
-
-            if can(mid):
-                ans = mid
-                left = mid + 1
-            else:
-                right = mid - 1
-
-        return ans
-
-        
