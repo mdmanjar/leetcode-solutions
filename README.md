@@ -317,6 +317,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1192-critical-connections-in-a-network](https://github.com/mdmanjar/leetcode-solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid/) | Hard |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1514-path-with-maximum-probability](https://github.com/mdmanjar/leetcode-solutions/tree/main/1514-path-with-maximum-probability/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/mdmanjar/leetcode-solutions/tree/main/1928-minimum-cost-to-reach-destination-in-time/) | Hard |
@@ -486,6 +487,7 @@
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -599,6 +601,7 @@
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Least Common Multiple
@@ -733,6 +736,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
@@ -977,14 +981,17 @@
 ## Prim's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Kruskal's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Borůvka's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1584-min-cost-to-connect-all-points](https://github.com/mdmanjar/leetcode-solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -1003,4 +1010,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0164-maximum-gap](https://github.com/mdmanjar/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
+## Strongly Connected Component
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 <!---LeetCode Topics End-->
