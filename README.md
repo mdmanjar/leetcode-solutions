@@ -44,6 +44,7 @@
 | [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/mdmanjar/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/mdmanjar/leetcode-solutions/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0827-making-a-large-island](https://github.com/mdmanjar/leetcode-solutions/tree/main/0827-making-a-large-island/) | Hard |
@@ -149,6 +150,7 @@
 | [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/mdmanjar/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/mdmanjar/leetcode-solutions/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0740-delete-and-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/0740-delete-and-earn/) | Medium |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
@@ -201,6 +203,7 @@
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0273-integer-to-english-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [0282-expression-add-operators](https://github.com/mdmanjar/leetcode-solutions/tree/main/0282-expression-add-operators/) | Hard |
+| [0710-random-pick-with-blacklist](https://github.com/mdmanjar/leetcode-solutions/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0952-largest-component-size-by-common-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -437,6 +440,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0710-random-pick-with-blacklist](https://github.com/mdmanjar/leetcode-solutions/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1095-find-in-mountain-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
@@ -737,6 +741,7 @@
 | [0414-third-maximum-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0710-random-pick-with-blacklist](https://github.com/mdmanjar/leetcode-solutions/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -1023,4 +1028,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0710-random-pick-with-blacklist](https://github.com/mdmanjar/leetcode-solutions/tree/main/0710-random-pick-with-blacklist/) | Hard |
 <!---LeetCode Topics End-->
