@@ -15,14 +15,13 @@ class NestedIterator:
             dfs(x, i + 1)
 
         dfs(nestedList, 0)
+        self.arr.reverse()
 
     def next(self) -> int:
-        val = self.arr[self.i]
-        self.i += 1
-        return val
+        return self.arr.pop()
 
     def hasNext(self) -> bool:
-        return self.i < len(self.arr)
+        return len(self.arr)>0
 
 # Your NestedIterator object will be instantiated and called as such:
 # i, v = NestedIterator(nestedList), []
