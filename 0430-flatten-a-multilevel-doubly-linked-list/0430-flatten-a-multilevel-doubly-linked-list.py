@@ -10,7 +10,6 @@ class Node:
 
 class Solution:
     def flatten(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        if head is None:return head
         last=None
 
         def dfs(head):
@@ -18,22 +17,18 @@ class Solution:
             while head and not head.child:
                 last=head
                 head=head.next
-            if not head:return
+            if head is None:return
             last=head
-            nxt=head.next
-            head.next=head.child
-            head.child.prev=head
+            child=head.child
             head.child=None
+            next=head.next
+            child.prev=head
+            head.next=child
             dfs(head)
-            if nxt is None:return
-
-            last.next=nxt
-            nxt.prev=last
+            if next is None:return
+            last.next=next
+            next.prev=last
             dfs(last)
         dfs(head)
         return head
-
-
-
-
         
