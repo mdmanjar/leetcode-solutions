@@ -147,6 +147,7 @@
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0460-lfu-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/mdmanjar/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -187,6 +188,7 @@
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0460-lfu-cache/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
@@ -762,6 +764,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0460-lfu-cache/) | Hard |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [1172-dinner-plate-stacks](https://github.com/mdmanjar/leetcode-solutions/tree/main/1172-dinner-plate-stacks/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
@@ -813,6 +816,7 @@
 | [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
+| [0460-lfu-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0460-lfu-cache/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
