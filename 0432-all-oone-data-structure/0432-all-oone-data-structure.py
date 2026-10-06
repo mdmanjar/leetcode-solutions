@@ -88,7 +88,8 @@ class AllOne:
         return
       old_node.freq=index-1
       self.stacks[index-1].append(old_node)
-      heapq.heappush(self.hp,index-1)
+    #   if len(self.sracks[index-1]):
+    #   heapq.heappush(self.hp,index-1)
 
     def getMaxKey(self) -> str:
       while self.stacks and not self.stacks[-1]:
