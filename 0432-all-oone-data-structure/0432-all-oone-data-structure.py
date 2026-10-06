@@ -74,7 +74,8 @@ class AllOne:
       new_node=node(key,index)
       self.mp[key]=new_node
       self.stacks[index].append(new_node)
-      heapq.heappush(self.hp,index)
+      if len(self.stacks[index])==1:
+        heapq.heappush(self.hp,index)
 
 
     def dec(self, key: str) -> None:
