@@ -1,104 +1,123 @@
-
-class Node:
-    def __init__(self, key, freq):
-        self.key = key
-        self.freq = freq
-        self.prev = None
-        self.next = None
+from collections import defaultdict
+import heapq
 
 
-class DLL:
+class node:
+    def __init__(self,key=-1,freq=0):
+        self.key=key
+        self.freq=freq
+        self.prev=None
+        self.next=None
+
+class dll:
+
     def __init__(self):
-        self.head = Node("", -1)
-        self.tail = Node("", -1)
+        self.head=node()
+        self.tail=node()
+        self.head.next=self.tail
+        self.tail.prev=self.head
+        self.size=0
 
-        self.head.next = self.tail
-        self.tail.prev = self.head
 
-        self.size = 0
-
-    def add(self, node):
-        node.next = self.head.next
-        node.prev = self.head
-
-        self.head.next.prev = node
-        self.head.next = node
-
-        self.size += 1
-
-    def remove(self, node):
-        node.prev.next = node.next
-        node.next.prev = node.prev
-
-        self.size -= 1
+    def append(self,new_node):
+        new_node.next=self.head.next
+        new_node.prev=self.head
+        self.head.next.prev=new_node
+        self.head.next=new_node
+        self.size+=1
 
     def __len__(self):
         return self.size
 
-    def recentUsed(self):
-        return self.head.next.key
+    def __delitem__(self, deleted_node):
+        deleted_node.prev.next=deleted_node.next
+        deleted_node.next.prev=deleted_node.prev
+        self.size-=1
+
+    def mru(self):
+      return self.head.next.key
+    def __str__(self):
+        if len(self)==0:
+          return '[]'
+        ans=[]
+        t=self.head.next
+        sz=self.size
+        while sz:
+          ans.append(f'{t.key} : {t.freq+1}')
+          sz-=1
+          t=t.next
+        return ', '.join(str(e) for e in ans)
 
 
 class AllOne:
-
     def __init__(self):
-        self.stack = [DLL()]  # stack[0] is unused
-        self.hp = []
-        self.mp = {}
+      self.mp=defaultdict(lambda:None)
+      self.stacks=[]
+      self.hp=[]
 
     def inc(self, key: str) -> None:
 
-        if key in self.mp:
-            x = self.mp[key]
+      old_node=self.mp[key]
 
-            self.stack[x.freq].remove(x)
-            x.freq += 1
+      if old_node:
+        index=old_node.freq
+        del self.stacks[index][old_node]
+        index+=1
 
-        else:
-            x = Node(key, 1)
-            self.mp[key] = x
+      else:
+        index=0
 
-        idx = x.freq
+      while len(self.stacks)<=index:
+        self.stacks.append(dll())
 
-        while len(self.stack) <= idx: # 1
-            self.stack.append(DLL())
 
-        self.stack[idx].add(x)
+      new_node=node(key,index)
+      self.mp[key]=new_node
+      self.stacks[index].append(new_node)
+      heapq.heappush(self.hp,index)
 
-        heapq.heappush(self.hp, idx)
 
     def dec(self, key: str) -> None:
-
-        x = self.mp[key]
-        idx = x.freq
-
-        self.stack[idx].remove(x)
-
-        if len(self.stack[-1])==0:
-            self.stack.pop()
-
-        idx -= 1
-
-        if idx == 0:
-            del self.mp[key]
-            return
-
-        x.freq = idx
-        self.stack[idx].add(x)
-
-        heapq.heappush(self.hp, idx)
+      if key not in self.mp:return
+      old_node=self.mp[key]
+      index=old_node.freq
+      del self.stacks[index][old_node]
+      if index==0:
+        del self.mp[key]
+        return
+      old_node.freq=index-1
+      self.stacks[index-1].append(old_node)
+      heapq.heappush(self.hp,index-1)
 
     def getMaxKey(self) -> str:
-        return  self.stack[-1].recentUsed() if len(self.stack)>1 else""
+      while self.stacks and not self.stacks[-1]:
+        self.stacks.pop()
+      if not self.stacks:return ''
+      return self.stacks[-1].mru()
+
 
     def getMinKey(self) -> str:
 
+        if not self.stacks:
+
+          if self.hp:self.hp.clear()
+          return ''
+
         while self.hp:
-            idx = self.hp[0]
 
-            if idx < len(self.stack) and len(self.stack[idx]) > 0:
-                return self.stack[idx].recentUsed()
+          top=self.hp[0]
 
-            heapq.heappop(self.hp)
+          if top>=len(self.stacks):
+            self.hp=[]
+            break
 
-        return ""
+          if self.stacks[top]:break
+          heapq.heappop(self.hp)
+
+        if not self.hp:
+          return ''
+
+        return self.stacks[self.hp[0]].mru()
+
+    def __str__(self):
+      return '\n'.join(e.__str__() for e in self.stacks if e)
