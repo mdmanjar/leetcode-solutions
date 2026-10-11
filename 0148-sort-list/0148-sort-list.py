@@ -4,34 +4,36 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+    def sortList(self, head: ListNode | None) -> ListNode | None:
 
-        def merge(l1,l2):
-            head=ListNode(-1)
-            temp=head
-
-            while l1 and l2:
-                if l1.val<l2.val:
-                    temp.next=l1
-                    l1=l1.next
-                else:
-                    temp.next=l2
-                    l2=l2.next
-                temp=temp.next
-            temp.next=l1 or l2
-            return head.next
-
-        def divid(head):
-            if head is None or head.next is None:return head
-
+        def sort(head):
+            if head is None or head.next is None:
+                return head
             slow=fast=head
 
             while fast and fast.next and fast.next.next:
                 slow=slow.next
                 fast=fast.next.next
-            nxt=slow.next
+
+            next=slow.next
             slow.next=None
 
-            return merge(divid(head),divid(nxt))
-        return divid(head)
+            head=sort(head)
+            next=sort(next)
+            temp=ListNode()
+            new_head=temp
+
+            while head and next:
+                if head.val<next.val:
+                    temp.next=head
+                    head=head.next
+                else:
+                    temp.next=next
+                    next=next.next
+                temp=temp.next
+            temp.next=head or next
+            
+            return new_head.next
+        return sort(head)
+            
         
