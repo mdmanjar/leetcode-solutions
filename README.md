@@ -164,6 +164,7 @@
 | [2196-create-binary-tree-from-descriptions](https://github.com/mdmanjar/leetcode-solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2421-number-of-good-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/2421-number-of-good-paths/) | Hard |
 | [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/mdmanjar/leetcode-solutions/tree/main/2508-add-edges-to-make-degrees-of-all-nodes-even/) | Hard |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2641-cousins-in-binary-tree-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2641-cousins-in-binary-tree-ii/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/3378-count-connected-components-in-lcm-graph/) | Hard |
@@ -577,6 +578,7 @@
 | [1079-letter-tile-possibilities](https://github.com/mdmanjar/leetcode-solutions/tree/main/1079-letter-tile-possibilities/) | Medium |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/mdmanjar/leetcode-solutions/tree/main/1255-maximum-score-words-formed-by-letters/) | Hard |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/mdmanjar/leetcode-solutions/tree/main/2416-sum-of-prefix-scores-of-strings/) | Hard |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
@@ -779,6 +781,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/mdmanjar/leetcode-solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/2642-design-graph-with-shortest-path-calculator/) | Hard |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
@@ -907,6 +910,7 @@
 | [0341-flatten-nested-list-iterator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -939,6 +943,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
 | [1472-design-browser-history](https://github.com/mdmanjar/leetcode-solutions/tree/main/1472-design-browser-history/) | Medium |
 | [1670-design-front-middle-back-queue](https://github.com/mdmanjar/leetcode-solutions/tree/main/1670-design-front-middle-back-queue/) | Medium |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Eulerian Circuit
 | Problem Name | Difficulty |
 | ------- | ------- |
