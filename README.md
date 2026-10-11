@@ -42,6 +42,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0463-island-perimeter](https://github.com/mdmanjar/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/mdmanjar/leetcode-solutions/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0500-keyboard-row](https://github.com/mdmanjar/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -444,6 +445,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0710-random-pick-with-blacklist](https://github.com/mdmanjar/leetcode-solutions/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
@@ -632,6 +634,7 @@
 | [0220-contains-duplicate-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0895-maximum-frequency-stack](https://github.com/mdmanjar/leetcode-solutions/tree/main/0895-maximum-frequency-stack/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
@@ -704,6 +707,7 @@
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
@@ -972,6 +976,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/mdmanjar/leetcode-solutions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
@@ -1045,12 +1050,15 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
