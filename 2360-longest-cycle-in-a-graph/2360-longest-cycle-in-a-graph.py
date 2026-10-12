@@ -1,24 +1,27 @@
-
 class Solution:
-    def longestCycle(self, edges: List[int]) -> int:
+    def longestCycle(self, edges: list[int]) -> int:
         n=len(edges)
-        vst=[None]*n
-        time=[0]*n
+        visit=[0]*n
         ans=-1
-        def dfs(u,t):
+
+        def dfs(u):
             nonlocal ans
-            if vst[u] is not None:
-                if vst[u] is False:
-                    ans=max(ans,t-time[u])
+
+            if visit[u]==2:return
+            if visit[u]==1:
+                length=0
+                while visit[u]==1:
+                    length+=1
+                    visit[u]=2
+                    u=edges[u]
+                ans=max(ans,length)
                 return
-            vst[u]=False
-
-            time[u]=t
-            if edges[u]!=-1:
-                dfs(edges[u],t+1)
-            vst[u]=True
-
-        for i in range(n):
-            dfs(i,0)
-
+            if edges[u]==-1:return
+            visit[u]=1
+            dfs(edges[u])
+            visit[u]=2
+        for i in range(n):dfs(i)
         return ans
+
+            
+        
