@@ -14,6 +14,7 @@ class Solution:
 
         q=deque((i,j) for i in range(m) for j in range(n) if deg[i][j]==0)
         ans=0
+        mod=10**9+7
 
         while q:
             i,j=q.popleft()
@@ -24,8 +25,8 @@ class Solution:
 
                 if -1<u<m and -1<v<n and grid[i][j]<grid[u][v]:
                     deg[u][v]-=1
-                    path[u][v]+=path[i][j]
+                    path[u][v]=(path[i][j]+path[u][v])%mod
                     if deg[u][v]==0:q.append((u,v))
-        return ans%(10**9+7)
+        return ans%mod
 
         
