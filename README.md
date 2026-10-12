@@ -91,6 +91,7 @@
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3341-find-minimum-time-to-reach-last-room-i/) | Medium |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3342-find-minimum-time-to-reach-last-room-ii/) | Medium |
@@ -269,6 +270,7 @@
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3331-find-subtree-sizes-after-changes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3484-design-spreadsheet](https://github.com/mdmanjar/leetcode-solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -303,6 +305,7 @@
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/mdmanjar/leetcode-solutions/tree/main/2876-count-visited-nodes-in-a-directed-graph/) | Hard |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3213-construct-string-with-minimum-cost](https://github.com/mdmanjar/leetcode-solutions/tree/main/3213-construct-string-with-minimum-cost/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/mdmanjar/leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3593-minimum-increments-to-equalize-leaf-paths](https://github.com/mdmanjar/leetcode-solutions/tree/main/3593-minimum-increments-to-equalize-leaf-paths/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -453,6 +456,7 @@
 | [1095-find-in-mountain-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2454-next-greater-element-iv](https://github.com/mdmanjar/leetcode-solutions/tree/main/2454-next-greater-element-iv/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -609,6 +613,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/mdmanjar/leetcode-solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2241-design-an-atm-machine](https://github.com/mdmanjar/leetcode-solutions/tree/main/2241-design-an-atm-machine/) | Medium |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3244-shortest-distance-after-road-addition-queries-ii/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 | [3523-make-array-non-decreasing](https://github.com/mdmanjar/leetcode-solutions/tree/main/3523-make-array-non-decreasing/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/mdmanjar/leetcode-solutions/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/mdmanjar/leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
@@ -655,18 +660,22 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/2977-minimum-cost-to-convert-string-ii/) | Hard |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 | [3093-longest-common-suffix-queries](https://github.com/mdmanjar/leetcode-solutions/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Rolling Hash
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1061,6 +1070,7 @@
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
