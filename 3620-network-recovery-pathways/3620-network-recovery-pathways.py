@@ -1,57 +1,65 @@
+import heapq
+from math import inf
+from typing import List
+
 class Solution:
     def findMaxPathScore(self, edges: List[List[int]], online: List[bool], k: int) -> int:
-        n=len(online)
-        g=[[] for _ in range(n)]
-        deg=[0]*n
-        left=math.inf
-        right=0
+        if not edges:
+            return -1
+        
+        n = len(online)
+        g = [[] for _ in range(n)]
+        min_w = inf
+        max_w = 0
 
-        for u,v,w in edges:
-            if online[u] and online[v]:
-                g[u].append((v,w))
-                deg[v]+=1
-                left=min(left,w)
-                right=max(right,w)
+        for u, v, w in edges:
+            if not online[u] or not online[v]:
+                continue
+            min_w = min(min_w, w)
+            max_w = max(max_w, w)
+            g[u].append((v, w))
+        
+        def dijkstra(limit):
+            dist = [inf] * n
+            dist[0] = 0
+            hp = [(0, 0)]
 
-        def topo():
-            q=deque(i for i in range(n) if deg[i]==0)
-            arr=[]
-
-            while q:
-                u=q.popleft()
-                arr.append(u)
-                for v,_ in g[u]:
-                    deg[v]-=1
-                    if deg[v]==0:
-                        q.append(v)
-
-            return arr
-
-        order=topo()
-
-        def sort(limit):
-            dist=[math.inf]*n
-            dist[0]=0
-
-            for u in order:
-                if dist[u]==math.inf:
+            while hp:
+                d, u = heapq.heappop(hp)
+                
+                if u == n - 1:
+                    return True
+                
+                if d > dist[u]:
                     continue
+                
+                for v, w in g[u]:
+                    if w < limit:  # Discard edges lighter than our minimum threshold
+                        continue
+                    new_d = d + w
+                    if new_d < dist[v] and new_d <= k:
+                        dist[v] = new_d
+                        heapq.heappush(hp, (new_d, v))
+            
+            return False
 
-                for v,w in g[u]:
-                    if w>=limit:
-                        dist[v]=min(dist[v],dist[u]+w)
+        left = min_w
+        right = max_w
 
-            return dist[n-1]<=k
+        # If even with the minimum possible edge weight requirement we can't reach n-1
+        if not dijkstra(left):
+            return -1
 
-        ans=-1
+        ans = -1
 
-        while left<=right:
-            mid=(left+right)//2
+        # Binary search for the maximum minimum-edge cost
+        while left <= right:
+            mid = (left + right) // 2
 
-            if sort(mid):
-                ans=mid
-                left=mid+1
+            if dijkstra(mid):
+                ans = mid       # 'mid' is feasible, try to go higher
+                left = mid + 1
             else:
-                right=mid-1
-
+                right = mid - 1 # 'mid' is too strict, try lower
+                
         return ans
