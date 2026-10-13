@@ -6,11 +6,7 @@ class Solution:
             g[v-1].append(u-1)
             deg[u-1]+=1
         x=[0]*n
-        q=deque()
-        for i in range(n):
-            if deg[i]==0:
-                # x[i]=time[i]
-                q.append(i)
+        q=deque(i for i in range(n) if deg[i]==0)
 
         ans=0
         while q:
