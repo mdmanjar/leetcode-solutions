@@ -18,6 +18,7 @@ class Solution:
             visit[u]=True
 
             for v,w in g[u]:
+                if visit[v]:continue
                 np=p*w
                 heapq.heappush_max(hp,(np,v))
         return 0
