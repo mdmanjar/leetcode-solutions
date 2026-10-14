@@ -1098,4 +1098,8 @@
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/mdmanjar/leetcode-solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 <!---LeetCode Topics End-->
