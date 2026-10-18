@@ -1,25 +1,29 @@
 class Solution:
-    def minTimeMaxPower(self, n: int, edges: List[List[int]], power: int, cost: List[int], source: int, target: int) -> List[int]:
+    def minTimeMaxPower(self, n:int, edges:List[List[int]], power:int, cost:int, source:int, target:int):
+
         graph = [[] for _ in range(n)]
-        for u, v, w in edges:
-            graph[u].append((v, w))
-        
-        cost_sp, time, heap = [inf] * n, [inf] * n, [(0, 0, source)]
-        cost_sp[source], time[source] = 0, 0
-        while heap:
-            t, d, u = heappop(heap)
-            if d > power:
+
+        for u, v, t in edges:
+            graph[u].append((v, t))
+
+        hp = [(0, -power, source)]
+
+        max_power=[-1]*n
+
+        while hp:
+            curr_time, curr_power, node = heapq.heappop(hp)
+            curr_power=-curr_power
+
+            if node == target:
+                return [curr_time, curr_power]
+            if curr_power <= max_power[node]:
                 continue
-            
-            if u == target:
-                return [t, power-d]
-            
-            if d + cost[u] > power:
-                continue
-            
-            for v, w in graph[u]:
-                if d + cost[u] < cost_sp[v] or t + w < time[v]:
-                    cost_sp[v], time[v] = d + cost[u], t + w
-                    heappush(heap, (t + w, d + cost[u], v))
+
+            max_power[node] = curr_power
+            updated_power = curr_power - cost[node]
+
+            for neighbour, time in graph[node]:
+                if updated_power > max_power[neighbour]:
+                    heapq.heappush(hp, (curr_time + time, -updated_power, neighbour))
 
         return [-1, -1]
