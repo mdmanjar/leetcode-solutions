@@ -118,6 +118,7 @@
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3809-best-reachable-tower](https://github.com/mdmanjar/leetcode-solutions/tree/main/3809-best-reachable-tower/) | Medium |
+| [3814-maximum-capacity-within-budget](https://github.com/mdmanjar/leetcode-solutions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3834-merge-adjacent-equal-elements](https://github.com/mdmanjar/leetcode-solutions/tree/main/3834-merge-adjacent-equal-elements/) | Medium |
 | [3835-count-subarrays-with-cost-less-than-or-equal-to-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3835-count-subarrays-with-cost-less-than-or-equal-to-k/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/mdmanjar/leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
@@ -237,6 +238,7 @@
 | [0295-find-median-from-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [3814-maximum-capacity-within-budget](https://github.com/mdmanjar/leetcode-solutions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -473,6 +475,7 @@
 | [3620-network-recovery-pathways](https://github.com/mdmanjar/leetcode-solutions/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3814-maximum-capacity-within-budget](https://github.com/mdmanjar/leetcode-solutions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/mdmanjar/leetcode-solutions/tree/main/3924-minimum-threshold-path-with-limited-heavy-edges/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -793,6 +796,7 @@
 | [3446-sort-matrix-by-diagonals](https://github.com/mdmanjar/leetcode-solutions/tree/main/3446-sort-matrix-by-diagonals/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
+| [3814-maximum-capacity-within-budget](https://github.com/mdmanjar/leetcode-solutions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
