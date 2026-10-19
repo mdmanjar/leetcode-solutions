@@ -18,10 +18,10 @@ class Solution:
             mn.append(right)
             mx.append(right)
 
-            while mn and mx and (nums[mx[0]]-nums[mn[0]])*(right-left+1)>k:
+            while (nums[mx[0]]-nums[mn[0]])*(right-left+1)>k:
                 if mn[0]==left:
                     mn.popleft()
-                if mx[0]==right:
+                if mx[0]==left:
                     mx.popleft()
                 left+=1
             
