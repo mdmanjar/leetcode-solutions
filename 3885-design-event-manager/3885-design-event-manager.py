@@ -1,44 +1,39 @@
-class node:
+class event:
+
     def __init__(self,id,priority):
         self.id=id
         self.priority=priority
-        self.active=True
-
+        self.live=True
     def __lt__(self,other):
-        # if not self.active:
-        #     return True
         if self.priority!=other.priority:
             return self.priority>other.priority
         return self.id<other.id
-
 class EventManager:
 
     def __init__(self, events: list[list[int]]):
         self.hp=[]
         self.mp={}
         for id ,priority in events:
-            x=node(id,priority)
+            x=event(id,priority)
             self.hp.append(x)
             self.mp[id]=x
-
         heapq.heapify(self.hp)
-
     def updatePriority(self, eventId: int, newPriority: int) -> None:
-        while self.hp and not self.hp[0].active:
-            heapq.heappop(self.hp)
         if eventId in self.mp:
-            self.mp[eventId].active=False
-        x=node(eventId,newPriority)
+            self.mp[eventId].live=False
+        x=event(eventId,newPriority)
         self.mp[eventId]=x
         heapq.heappush(self.hp,x)
-
-
+        
     def pollHighest(self) -> int:
-        while self.hp and not self.hp[0].active:
+
+        while self.hp and not self.hp[0].live:
             heapq.heappop(self.hp)
-        if self.hp:
-          return heapq.heappop(self.hp).id
-        return -1
+        if not self.hp:return -1
+        x=heapq.heappop(self.hp)
+        del self.mp[x.id]
+        return x.id
+        
 
 
 # Your EventManager object will be instantiated and called as such:
