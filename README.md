@@ -111,6 +111,7 @@
 | [3693-climbing-stairs-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3710-maximum-partition-factor](https://github.com/mdmanjar/leetcode-solutions/tree/main/3710-maximum-partition-factor/) | Hard |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/3738-longest-non-decreasing-subarray-after-replacing-at-most-one-element/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/mdmanjar/leetcode-solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
@@ -175,6 +176,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3552-grid-teleportation-traversal](https://github.com/mdmanjar/leetcode-solutions/tree/main/3552-grid-teleportation-traversal/) | Medium |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/mdmanjar/leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
@@ -605,6 +607,7 @@
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/mdmanjar/leetcode-solutions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3715-sum-of-perfect-square-ancestors](https://github.com/mdmanjar/leetcode-solutions/tree/main/3715-sum-of-perfect-square-ancestors/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/mdmanjar/leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
@@ -744,6 +747,7 @@
 | [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/2343-query-kth-smallest-trimmed-number/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -961,6 +965,7 @@
 | [0303-range-sum-query-immutable](https://github.com/mdmanjar/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1018,6 +1023,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0912-sort-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1097,6 +1103,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [3291-minimum-number-of-valid-strings-to-form-target-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3291-minimum-number-of-valid-strings-to-form-target-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Treap
 | Problem Name | Difficulty |
 | ------- | ------- |
