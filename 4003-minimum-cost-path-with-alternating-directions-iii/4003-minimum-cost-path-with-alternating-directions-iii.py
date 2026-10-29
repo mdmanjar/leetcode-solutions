@@ -1,72 +1,57 @@
+import heapq
+import math
+from typing import List
+
 class Solution:
     def minCost(self, m: int, n: int, penalty: List[List[int]]) -> int:
-        INF = float('inf')
-        dist = [[INF] * 2 for _ in range(m * n)]
+        # dist[i][j][parity] where parity 0 means next action is even, 1 means next action is odd
+        dist = [[[math.inf] * 2 for _ in range(n)] for _ in range(m)]
+        
+        # Priority queue elements: (cost, r, c, parity)
+        # Start at (0, 0) with initial cost 1. 
+        # The problem states: "Actions performed after entering (0, 0) are numbered starting from 1."
+        # Action 1 is odd-numbered, so required parity for the *next* move is odd (1).
+        hp = [(1, 0, 0, 1)]
+        dist[0][0][1] = 1
+        
+        dirs_odd = ((0, 1), (1, 0))   # Right, Down (allowed on odd-numbered actions)
+        dirs_even = ((0, -1), (-1, 0)) # Left, Up (allowed on even-numbered actions)
+        all_dirs = ((0, 1), (1, 0), (0, -1), (-1, 0))
 
-        # parity: 0 = even, 1 = odd
-        dist[0][1] = 1
-
-        heap = [(1, 1, 0)]
-
-        directions = [
-            (0, 1),   # right
-            (1, 0),   # down
-            (0, -1),  # left
-            (-1, 0)   # up
-        ]
-
-        while heap:
-            cost, parity, idx = heapq.heappop(heap)
-
-            if cost != dist[idx][parity]:
+        while hp:
+            d, r, c, parity = heapq.heappop(hp)
+            
+            if (r, c) == (m - 1, n - 1):
+                return d
+                
+            if d > dist[r][c][parity]:
                 continue
+                
+            # Option 1: Wait at the current cell
+            # Waiting costs penalty[r][c] and flips the parity
+            wait_cost = d + penalty[r][c]
+            next_parity_wait = 1 - parity
+            if wait_cost < dist[r][c][next_parity_wait]:
+                dist[r][c][next_parity_wait] = wait_cost
+                heapq.heappush(hp, (wait_cost, r, c, next_parity_wait))
 
-            if idx == m * n - 1:
-                return cost
-
-            i, j = divmod(idx, n)
-            pen = penalty[i][j]
-
-            # Wait
-            new_parity = parity ^ 1
-            new_cost = cost + pen
-
-            if new_cost < dist[idx][new_parity]:
-                dist[idx][new_parity] = new_cost
-                heapq.heappush(
-                    heap,
-                    (new_cost, new_parity, idx)
-                )
-
-            # Move
-            for di, dj in directions:
-                ni, nj = i + di, j + dj
-
-                if not (0 <= ni < m and 0 <= nj < n):
-                    continue
-
-                new_idx = ni * n + nj
-
-                # Moving cost = destination cell cost
-                new_cost = cost + (ni + 1) * (nj + 1)
-
-                # Odd parity prefers right/down.
-                # Even parity prefers left/up.
-                is_right_down = di + dj > 0
-
-                if parity == 1 and not is_right_down:
-                    new_cost += pen
-
-                if parity == 0 and is_right_down:
-                    new_cost += pen
-
-                new_parity = parity ^ 1
-
-                if new_cost < dist[new_idx][new_parity]:
-                    dist[new_idx][new_parity] = new_cost
-                    heapq.heappush(
-                        heap,
-                        (new_cost, new_parity, new_idx)
-                    )
-
+            # Option 2: Move to adjacent cells
+            valid_rule_dirs = dirs_odd if parity == 1 else dirs_even
+            
+            for dr, dc in all_dirs:
+                nr, nc = r + dr, c + dc
+                if 0 <= nr < m and 0 <= nc < n:
+                    entry_cost = (nr + 1) * (nc + 1)
+                    
+                    # Check if the move follows the parity rule
+                    is_valid_move = (dr, dc) in valid_rule_dirs
+                    
+                    extra_cost = 0 if is_valid_move else penalty[r][c]
+                    new_d = d + entry_cost + extra_cost
+                    next_parity_move = 1 - parity
+                    
+                    if new_d < dist[nr][nc][next_parity_move]:
+                        dist[nr][nc][next_parity_move] = new_d
+                        heapq.heappush(hp, (new_d, nr, nc, next_parity_move))
+                        
         return -1
