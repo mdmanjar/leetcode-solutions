@@ -1,27 +1,5 @@
+ans=sorted([k for k ,v in Counter(i**3+j**3 for i in range(1,1001) for j in range(i,1001)).items() if v>=2])
+
 class Solution:
     def findGoodIntegers(self, n: int) -> list[int]:
-        mp=defaultdict(int)
-
-        def cube(n):
-            low=1
-            high=n
-            while low<high:
-                mid=low+(high-low)//2
-                x=mid**3
-                if x<=n:
-                    low=mid+1
-                else:
-                    high=mid
-            return low
-        x=cube(n)
-        
-        for i in range(1,x):
-            for j in range(i+1,x):
-                y=i**3+j**3
-                if y>n:break
-                mp[y]+=1
-        ans=[k for k,v in mp.items() if v>=2]
-        return sorted(ans)
-
-
-        
+        return ans[:bisect_right(ans,n)]
