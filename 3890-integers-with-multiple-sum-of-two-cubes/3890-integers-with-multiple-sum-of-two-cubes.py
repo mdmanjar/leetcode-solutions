@@ -16,7 +16,7 @@ class Solution:
         x=cube(n)
         
         for i in range(1,x):
-            for j in range(i,x):
+            for j in range(i+1,x):
                 y=i**3+j**3
                 if y>n:break
                 mp[y]+=1
