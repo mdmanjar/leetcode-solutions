@@ -184,6 +184,7 @@
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/mdmanjar/leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/mdmanjar/leetcode-solutions/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 | [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -613,6 +614,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3848-check-digitorial-permutation](https://github.com/mdmanjar/leetcode-solutions/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/mdmanjar/leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -801,6 +803,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/mdmanjar/leetcode-solutions/tree/main/3759-count-elements-with-at-least-k-greater-values/) | Medium |
 | [3814-maximum-capacity-within-budget](https://github.com/mdmanjar/leetcode-solutions/tree/main/3814-maximum-capacity-within-budget/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -858,6 +861,7 @@
 | [2440-create-components-with-same-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/2440-create-components-with-same-value/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/mdmanjar/leetcode-solutions/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
+| [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
