@@ -184,6 +184,7 @@
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/mdmanjar/leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/mdmanjar/leetcode-solutions/tree/main/3873-maximum-points-activated-with-one-addition/) | Hard |
 | [3885-design-event-manager](https://github.com/mdmanjar/leetcode-solutions/tree/main/3885-design-event-manager/) | Medium |
+| [3889-mirror-frequency-distance](https://github.com/mdmanjar/leetcode-solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -282,6 +283,7 @@
 | [3527-find-the-most-common-response](https://github.com/mdmanjar/leetcode-solutions/tree/main/3527-find-the-most-common-response/) | Medium |
 | [3805-count-caesar-cipher-pairs](https://github.com/mdmanjar/leetcode-solutions/tree/main/3805-count-caesar-cipher-pairs/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/mdmanjar/leetcode-solutions/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
+| [3889-mirror-frequency-distance](https://github.com/mdmanjar/leetcode-solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -614,6 +616,7 @@
 | [3843-first-element-with-unique-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3848-check-digitorial-permutation](https://github.com/mdmanjar/leetcode-solutions/tree/main/3848-check-digitorial-permutation/) | Medium |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/mdmanjar/leetcode-solutions/tree/main/3868-minimum-cost-to-equalize-arrays-using-swaps/) | Medium |
+| [3889-mirror-frequency-distance](https://github.com/mdmanjar/leetcode-solutions/tree/main/3889-mirror-frequency-distance/) | Medium |
 | [3890-integers-with-multiple-sum-of-two-cubes](https://github.com/mdmanjar/leetcode-solutions/tree/main/3890-integers-with-multiple-sum-of-two-cubes/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
