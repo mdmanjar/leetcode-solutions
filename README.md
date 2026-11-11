@@ -29,6 +29,7 @@
 | [0212-word-search-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/mdmanjar/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0220-contains-duplicate-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
+| [0238-product-of-array-except-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mdmanjar/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -972,6 +973,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/mdmanjar/leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
