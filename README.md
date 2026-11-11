@@ -157,6 +157,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/mdmanjar/leetcode-solutions/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/mdmanjar/leetcode-solutions/tree/main/0352-data-stream-as-disjoint-intervals/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/mdmanjar/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -276,6 +277,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/mdmanjar/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/mdmanjar/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/mdmanjar/leetcode-solutions/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0500-keyboard-row](https://github.com/mdmanjar/leetcode-solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -986,6 +988,7 @@
 | [0076-minimum-window-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0220-contains-duplicate-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0220-contains-duplicate-iii/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0424-longest-repeating-character-replacement](https://github.com/mdmanjar/leetcode-solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/mdmanjar/leetcode-solutions/tree/main/3795-minimum-subarray-length-with-distinct-sum-at-least-k/) | Medium |
 ## Prefix Sum
