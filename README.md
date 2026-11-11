@@ -202,6 +202,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0146-lru-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
+| [0206-reverse-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0432-all-oone-data-structure](https://github.com/mdmanjar/leetcode-solutions/tree/main/0432-all-oone-data-structure/) | Hard |
 | [0460-lfu-cache](https://github.com/mdmanjar/leetcode-solutions/tree/main/0460-lfu-cache/) | Hard |
@@ -235,6 +236,7 @@
 | [0010-regular-expression-matching](https://github.com/mdmanjar/leetcode-solutions/tree/main/0010-regular-expression-matching/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/mdmanjar/leetcode-solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0060-permutation-sequence](https://github.com/mdmanjar/leetcode-solutions/tree/main/0060-permutation-sequence/) | Hard |
+| [0206-reverse-linked-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0224-basic-calculator/) | Hard |
 | [0273-integer-to-english-words](https://github.com/mdmanjar/leetcode-solutions/tree/main/0273-integer-to-english-words/) | Hard |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/mdmanjar/leetcode-solutions/tree/main/3566-partition-array-into-two-equal-product-subsets/) | Medium |
