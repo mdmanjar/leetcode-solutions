@@ -565,6 +565,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdmanjar/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0341-flatten-nested-list-iterator](https://github.com/mdmanjar/leetcode-solutions/tree/main/0341-flatten-nested-list-iterator/) | Medium |
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
@@ -594,6 +595,7 @@
 | [0098-validate-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdmanjar/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0332-reconstruct-itinerary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0332-reconstruct-itinerary/) | Hard |
@@ -789,6 +791,7 @@
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdmanjar/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -798,6 +801,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0226-invert-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/mdmanjar/leetcode-solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0513-find-bottom-left-tree-value](https://github.com/mdmanjar/leetcode-solutions/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/mdmanjar/leetcode-solutions/tree/main/0669-trim-a-binary-search-tree/) | Medium |
