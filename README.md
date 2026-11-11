@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/mdmanjar/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -239,6 +240,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mdmanjar/leetcode-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -790,6 +792,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/mdmanjar/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0148-sort-list](https://github.com/mdmanjar/leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/mdmanjar/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
