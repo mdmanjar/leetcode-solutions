@@ -2,49 +2,31 @@ class Solution:
     def calculate(self, s: str) -> int:
         i=0
 
+
         def dfs():
             nonlocal i
-            stack=[]
-            num=0
-            op='+'
-
-            def cal(num,op):
-                if op=='+':
-                    stack.append(num)
-                else:
-                    stack.append(-num)
+            a=b=0
+            sign='+'
+            cal=lambda a,b,op:a+b if op=='+' else a-b
 
             while i<len(s):
                 c=s[i]
 
-                if c==' ':
-                    i+=1
-                    continue
-
                 if c.isdigit():
-                    num=num*10+int(c)
-
+                    b=b*10+(ord(c)-48)
+                    i+=1
+                elif c in ('+','-'):
+                    a,b=cal(a,b,sign),0
+                    sign=c
+                    i+=1
                 elif c=='(':
                     i+=1
-                    num=dfs()
-                    i-=1
-
-                elif c in ('+','-'):
-                    cal(num,op)
-                    op=c
-                    num=0
-
+                    a,b=cal(cal(a,b,sign),dfs(),sign),0
                 elif c==')':
-                    cal(num,op)
                     i+=1
-                    return sum(stack)
+                    return cal(a,b,sign)
+                else:
+                  i+=1
 
-                i+=1
-
-            cal(num,op)
-            return sum(stack)
-
+            return cal(a,b,sign)
         return dfs()
-
-
-        
