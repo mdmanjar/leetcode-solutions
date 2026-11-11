@@ -32,21 +32,20 @@ class Codec:
         :rtype: TreeNode
         """
         data=data.split(',')
-
+        i=0
         def dfs():
             nonlocal i
-            if i==len(data):return None
+
             if data[i]=='#':
                 i+=1
                 return None
-            node=TreeNode(int(data[i]))
+            root=TreeNode(int(data[i]))
             i+=1
-            node.left=dfs()
-            node.right=dfs()
-            return node
-        i=0
-
+            root.left=dfs()
+            root.right=dfs()
+            return root
         return dfs()
+            
         
 
 # Your Codec object will be instantiated and called as such:
