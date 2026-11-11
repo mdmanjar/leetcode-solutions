@@ -23,6 +23,7 @@
 | [0135-candy](https://github.com/mdmanjar/leetcode-solutions/tree/main/0135-candy/) | Hard |
 | [0140-word-break-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0140-word-break-ii/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/mdmanjar/leetcode-solutions/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0164-maximum-gap](https://github.com/mdmanjar/leetcode-solutions/tree/main/0164-maximum-gap/) | Medium |
 | [0169-majority-element](https://github.com/mdmanjar/leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -467,6 +468,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/mdmanjar/leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mdmanjar/leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0268-missing-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0268-missing-number/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/mdmanjar/leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
