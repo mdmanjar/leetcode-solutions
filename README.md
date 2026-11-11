@@ -14,6 +14,7 @@
 | [0041-first-missing-positive](https://github.com/mdmanjar/leetcode-solutions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/mdmanjar/leetcode-solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0051-n-queens](https://github.com/mdmanjar/leetcode-solutions/tree/main/0051-n-queens/) | Hard |
+| [0054-spiral-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0057-insert-interval](https://github.com/mdmanjar/leetcode-solutions/tree/main/0057-insert-interval/) | Medium |
 | [0066-plus-one](https://github.com/mdmanjar/leetcode-solutions/tree/main/0066-plus-one/) | Easy |
 | [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
@@ -420,6 +421,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/mdmanjar/leetcode-solutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0054-spiral-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0212-word-search-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/0212-word-search-ii/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0463-island-perimeter](https://github.com/mdmanjar/leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
@@ -743,6 +745,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/mdmanjar/leetcode-solutions/tree/main/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/mdmanjar/leetcode-solutions/tree/main/0068-text-justification/) | Hard |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mdmanjar/leetcode-solutions/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2296-design-a-text-editor](https://github.com/mdmanjar/leetcode-solutions/tree/main/2296-design-a-text-editor/) | Hard |
