@@ -1,24 +1,24 @@
 class Solution:
-    def solveNQueens(self, n: int) -> List[List[str]]:
-        grid=[['.']*n for _ in range(n)]
+    def solveNQueens(self, n: int) -> list[list[str]]:
+        grid=[]
+        temp=[['.']*n for _ in range(n)]
+        rows=[False]*n
+        x=[False]*(n*2)
+        y=[False]*(n*2)
 
-        col=[False]*n
-        pdig=[False]*(2*n)
-        ndig=[False]*(2*n)
-        ans=[]
-        
-        def dfs(i):
+
+        def dfs(i:int):
             if i==n:
-                ans.append([''.join(row) for row in grid])
+                grid.append([''.join(e) for e in temp])
                 return
-
             for j in range(n):
-                if col[j] or pdig[i+j] or ndig[n+i-j]:continue
-                col[j]=pdig[i+j]=ndig[n+i-j]=True
-                grid[i][j]='Q'
+                if rows[j] or x[i+j] or y[n+i-j]:
+                    continue
+                rows[j]=x[i+j]=y[n+i-j]=True
+                temp[i][j]='Q'
                 dfs(i+1)
-                grid[i][j]='.'
-                col[j]=pdig[i+j]=ndig[n+i-j]=False
+                rows[j]=x[i+j]=y[n+i-j]=False
+                temp[i][j]='.'
         dfs(0)
-        return ans
+        return grid
         
