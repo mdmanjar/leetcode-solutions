@@ -1,15 +1,22 @@
+from functools import lru_cache
+
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-
-        n=len(prices)
-
+    def maxProfit(self, prices: list[int]) -> int:
         @lru_cache(None)
-
-        def dfs(i,state,transaction):
+        def dfs(i, holding, transactions_left):
+            if i == len(prices) or transactions_left == 0:
+                return 0
             
-            if i==n or transaction==-1:return 0
+            # Choice 1: Do nothing
+            ans = dfs(i + 1, holding, transactions_left)
+            
+            if not holding:
+                # Buy stock
+                ans = max(ans, dfs(i + 1, True, transactions_left) - prices[i])
+            else:
+                # Sell stock (completes a transaction)
+                ans = max(ans, dfs(i + 1, False, transactions_left - 1) + prices[i])
+                
+            return ans
 
-            return max(dfs(i+1,0,transaction-1)+prices[i],dfs(i+1,1,transaction)) if state else max(dfs(i+1,1,transaction)-prices[i],dfs(i+1,0,transaction))
-
-        return dfs(0,0,1)
-        
+        return dfs(0, False, 2)
