@@ -1,39 +1,29 @@
 class Solution:
-    def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        root={}
+    def wordBreak(self, s: str, wordDict: list[str]) -> list[str]:
+        mp=[None]*26
 
-        def add(word):
-            t=root
-
-            for c in word:t=t.setdefault(c,{})
-            t['#']=word
-
-        for word in wordDict:add(word)
-
-
-        def dfs(i):
-
-            if i==len(s):
-                ans.append(' '.join(temp))
-                return
-
-            t=root
-            j=i
-
-            while i<len(s):
-
-                if s[i] not in t:break
-
-                t=t[s[i]]
-
-                if '#' in t :
-                    temp.append(t['#'])
-                    dfs(i+1)
-                    temp.pop()
-
-                i+=1
-
+        for word in wordDict:
+            idx=ord(word[0])-97
+            mp[idx]=(word,mp[idx])
+        
         ans=[]
         temp=[]
+
+        def dfs(i):
+            if len(s)==i:
+                ans.append(' '.join(temp))
+                return
+            idx=ord(s[i])-97
+            node=mp[idx]
+
+            while node:
+                word,next=node
+                node=next
+                if s.startswith(word,i):
+                    temp.append(word)
+                    dfs(i+len(word))
+                    temp.pop()
         dfs(0)
+
         return ans
+        
