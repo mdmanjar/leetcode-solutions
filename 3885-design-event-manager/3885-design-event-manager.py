@@ -1,39 +1,40 @@
 import heapq
 
-class node:
-    def __init__(self, id, p):
+class Node:
+    def __init__(self, id: int, p: int):
         self.id = id
-        self.p = p
+        self.priority = p
         self.active = True
 
+    # Python's heapq is a min-heap by default.
+    # To mimic Java's max-heap (highest priority first, then smallest id):
     def __lt__(self, other):
-        if self.p != other.p:
-            return self.p > other.p
+        if self.priority != other.priority:
+            return self.priority > other.priority
         return self.id < other.id
 
 class EventManager:
     def __init__(self, events: list[list[int]]):
-        self.hp = []
+        self.pq = []
         self.mp = {}
 
-        for id, pr in events:
-            x = node(id, pr)
-            self.mp[id] = x
-            heapq.heappush(self.hp, x)
+        for x in events:
+            node = Node(x[0], x[1])
+            heapq.heappush(self.pq, node)
+            self.mp[x[0]] = node
 
     def updatePriority(self, eventId: int, newPriority: int) -> None:
         if eventId in self.mp:
             self.mp[eventId].active = False
-            x = node(eventId, newPriority)
-            self.mp[eventId] = x
-            heapq.heappush(self.hp, x)
+            node = Node(eventId, newPriority)
+            self.mp[eventId] = node
+            heapq.heappush(self.pq, node)
 
     def pollHighest(self) -> int:
-        while self.hp and not self.hp[0].active:
-            heapq.heappop(self.hp)
-
-        if self.hp:
-            id = heapq.heappop(self.hp).id
-            del self.mp[id]
-            return id
-        return -1
+        while self.pq and not self.pq[0].active:
+            heapq.heappop(self.pq)
+            
+        if not self.pq:
+            return -1
+            
+        return heapq.heappop(self.pq).id
