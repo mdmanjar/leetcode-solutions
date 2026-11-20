@@ -6,4 +6,5 @@ class Solution:
             if len(word)>=k:
                 mp[word[:k]]+=1
         
-        return sum(1 for v in mp.values() if v>1)
+        return sum(1 for e in mp.values() if e>1)
+        
