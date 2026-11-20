@@ -1,15 +1,11 @@
 class Solution:
     def firstUniqueFreq(self, nums: List[int]) -> int:
-        freq=defaultdict(int)
-        mp=defaultdict(int)
-
-        for e in nums:freq[e]+=1
-        
-        for val in freq.values():mp[val]+=1
+        mp=Counter(nums)
+        freq=Counter(mp.values())
 
         for e in nums:
-            if mp[freq[e]]==1:return e
+            if freq[mp[e]]==1:return e
         return -1
+        
 
-            
         
