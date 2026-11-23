@@ -1173,6 +1173,7 @@
 | [0183-customers-who-never-order](https://github.com/mdmanjar/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/mdmanjar/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
+| [0197-rising-temperature](https://github.com/mdmanjar/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0577-employee-bonus](https://github.com/mdmanjar/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/mdmanjar/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mdmanjar/leetcode-solutions/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
