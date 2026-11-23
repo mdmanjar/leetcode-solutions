@@ -1186,6 +1186,7 @@
 | [0620-not-boring-movies](https://github.com/mdmanjar/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [3436-find-valid-emails](https://github.com/mdmanjar/leetcode-solutions/tree/main/3436-find-valid-emails/) | Easy |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/mdmanjar/leetcode-solutions/tree/main/3465-find-products-with-valid-serial-numbers/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
