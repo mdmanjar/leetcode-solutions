@@ -1185,6 +1185,7 @@
 | [0619-biggest-single-number](https://github.com/mdmanjar/leetcode-solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/mdmanjar/leetcode-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/mdmanjar/leetcode-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/mdmanjar/leetcode-solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/mdmanjar/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/mdmanjar/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
