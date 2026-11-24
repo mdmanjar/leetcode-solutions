@@ -1189,6 +1189,7 @@
 | [1068-product-sales-analysis-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1084-sales-analysis-iii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1084-sales-analysis-iii/) | Easy |
+| [1148-article-views-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/mdmanjar/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/mdmanjar/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/mdmanjar/leetcode-solutions/tree/main/1965-employees-with-missing-information/) | Easy |
