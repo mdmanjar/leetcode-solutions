@@ -1,94 +1,58 @@
-
 class dsu:
-
-    def __init__(self, n):
+    def __init__(self, n: int):
         self.p = [-1] * n
 
-    def find(self, a):
-        if self.p[a] < 0:
-            return a
+    def find(self, u: int) -> int:
+        if self.p[u] < 0:
+            return u
+        self.p[u] = self.find(self.p[u])
+        return self.p[u]
 
-        self.p[a] = self.find(self.p[a])
-        return self.p[a]
-
-    def union(self, a, b):
+    def union(self, a: int, b: int) -> bool:
         a, b = self.find(a), self.find(b)
-
         if a == b:
             return False
-
         if self.p[a] > self.p[b]:
             a, b = b, a
-
         self.p[a] += self.p[b]
         self.p[b] = a
-
         return True
 
 
 class Solution:
+    def findCriticalAndPseudoCriticalEdges(self, n: int, edges: list[list[int]]) -> list[list[int]]:
+        critical_edges = []
+        pseudo_critical_edges = []
 
-    def findCriticalAndPseudoCriticalEdges(
-        self,
-        n: int,
-        edges: list[list[int]]
-    ) -> list[list[int]]:
+        # Store original index alongside (u, v, w) before sorting by weight
+        sorted_edges = sorted([(u, v, w, idx) for idx, (u, v, w) in enumerate(edges)], key=lambda x: x[2])
 
-        edges = [
-            [u, v, w, i]
-            for i, (u, v, w) in enumerate(edges)
-        ]
-
-        edges.sort(key=lambda x: x[2])
-
-        def mst(skip=-1, force=-1):
-
+        def mst(must_idx=None, ignore_idx=None):
             uf = dsu(n)
-            weight = 0
             count = 0
+            weight = 0
 
-            # Force this edge first
-            if force != -1:
-                u, v, w, _ = edges[force]
-
-                uf.union(u, v)
+            if must_idx is not None:
+                u, v, w, _ = sorted_edges[must_idx]
                 weight += w
+                uf.union(u, v)
                 count += 1
 
-            for i, (u, v, w, _) in enumerate(edges):
-
-                if i == skip or i == force:
+            for i, (u, v, w, _) in enumerate(sorted_edges):
+                if i == must_idx or i == ignore_idx:
                     continue
-
                 if uf.union(u, v):
-                    weight += w
                     count += 1
+                    weight += w
 
-                    if count == n - 1:
-                        break
+            return weight if count == n - 1 else float('inf')
 
-            if count != n - 1:
-                return math.inf
+        min_weight = mst()
 
-            return weight
+        for i, (_, _, _, orig_idx) in enumerate(sorted_edges):
+            if mst(ignore_idx=i) > min_weight:
+                critical_edges.append(orig_idx)
+            elif mst(must_idx=i) == min_weight:
+                pseudo_critical_edges.append(orig_idx)
 
-        base = mst()
-
-        critical = []
-        pseudo = []
-
-        for i in range(len(edges)):
-
-            # If removing this edge increases MST weight,
-            # it is critical.
-            if mst(skip=i) > base:
-                critical.append(edges[i][3])
-
-            # Otherwise, if forcing it still gives the same MST,
-            # it is pseudo-critical.
-            elif mst(force=i) == base:
-                pseudo.append(edges[i][3])
-
-        return [critical, pseudo]
-
-
+        return [critical_edges, pseudo_critical_edges]
