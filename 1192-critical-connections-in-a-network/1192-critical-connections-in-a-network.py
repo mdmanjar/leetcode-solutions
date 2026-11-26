@@ -1,34 +1,36 @@
 class Solution:
     def criticalConnections(self, n: int, connections: list[list[int]]) -> list[list[int]]:
-        g=[[] for _ in range(n)]
+        # create a graph
+        graph=[[] for _ in range(n)]
 
         for u,v in connections:
-            g[u].append(v)
-            g[v].append(u)
-
-        ldt=[0]*n
-        dt=[0]*n
+            graph[u].append(v)
+            graph[v].append(u)
+        
+        dt=[0]*n # current discovery time
+        ldt=[0]*n # lowest discovery time
+        vst=[False]*n # visit
         time=1
         ans=[]
 
-        def dfs(u,p):
+        def dfs(u,p): # u: is a source and p: parent
             nonlocal time
-            ldt[u]=dt[u]=time
+            vst[u]=True
+            ldt[u]=time
+            dt[u]=time
             time+=1
 
-            for v in g[u]:
+            for v in graph[u]:
                 if v==p:continue
-
-                if dt[v]==0:
+                elif not vst[v]:
                     dfs(v,u)
-                    ldt[u]=min(ldt[u],ldt[v])
+                    
                     if ldt[v]>dt[u]:
                         ans.append([u,v])
-                else:
-                    ldt[u]=min(dt[v],ldt[u])
-
+                
+                ldt[u]=min(ldt[u],ldt[v])
         dfs(0,-1)
         return ans
 
-
+    
         
