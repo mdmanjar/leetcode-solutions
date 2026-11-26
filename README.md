@@ -1199,6 +1199,7 @@
 | [1527-patients-with-a-condition](https://github.com/mdmanjar/leetcode-solutions/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/mdmanjar/leetcode-solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/mdmanjar/leetcode-solutions/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/mdmanjar/leetcode-solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/mdmanjar/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/mdmanjar/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/mdmanjar/leetcode-solutions/tree/main/1965-employees-with-missing-information/) | Easy |
