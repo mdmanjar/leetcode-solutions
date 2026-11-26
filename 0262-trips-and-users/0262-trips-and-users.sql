@@ -5,7 +5,7 @@ SELECT
     ROUND(
         1.0 * SUM(CASE WHEN t.status IN ('cancelled_by_driver','cancelled_by_client') THEN 1 ELSE 0 END)
         / COUNT(*),
-    2) AS [Cancellation Rate]
+    2) AS 'Cancellation Rate'
 FROM Trips t
 JOIN Users c
     ON t.client_id = c.users_id AND c.banned = 'No'
