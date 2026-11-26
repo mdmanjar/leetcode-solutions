@@ -1194,6 +1194,7 @@
 | [1251-average-selling-price](https://github.com/mdmanjar/leetcode-solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/mdmanjar/leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1407-top-travellers](https://github.com/mdmanjar/leetcode-solutions/tree/main/1407-top-travellers/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/mdmanjar/leetcode-solutions/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1683-invalid-tweets](https://github.com/mdmanjar/leetcode-solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1890-the-latest-login-in-2020](https://github.com/mdmanjar/leetcode-solutions/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1965-employees-with-missing-information](https://github.com/mdmanjar/leetcode-solutions/tree/main/1965-employees-with-missing-information/) | Easy |
