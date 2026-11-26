@@ -1174,6 +1174,7 @@
 | [0184-department-highest-salary](https://github.com/mdmanjar/leetcode-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/mdmanjar/leetcode-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/mdmanjar/leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0262-trips-and-users](https://github.com/mdmanjar/leetcode-solutions/tree/main/0262-trips-and-users/) | Hard |
 | [0511-game-play-analysis-i](https://github.com/mdmanjar/leetcode-solutions/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/mdmanjar/leetcode-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/mdmanjar/leetcode-solutions/tree/main/0584-find-customer-referee/) | Easy |
