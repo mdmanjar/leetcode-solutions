@@ -12,6 +12,21 @@
 -- ORDER BY num DESC
 -- LIMIT 1;
 
+-- WITH FriendCounts AS (
+--     SELECT
+--         id,
+--         COUNT(*) AS num
+--     FROM (
+--         SELECT requester_id AS id FROM RequestAccepted
+--         UNION ALL
+--         SELECT accepter_id AS id FROM RequestAccepted
+--     ) AS all_friends
+--     GROUP BY id
+-- )
+-- SELECT id, num
+-- FROM FriendCounts
+-- WHERE num = (SELECT MAX(num) FROM FriendCounts);
+
 WITH FriendCounts AS (
     SELECT
         id,
@@ -22,7 +37,14 @@ WITH FriendCounts AS (
         SELECT accepter_id AS id FROM RequestAccepted
     ) AS all_friends
     GROUP BY id
+),
+MaxFriends AS (
+    SELECT MAX(num) AS max_num
+    FROM FriendCounts
 )
-SELECT id, num
-FROM FriendCounts
-WHERE num = (SELECT MAX(num) FROM FriendCounts);
+SELECT
+    fc.id,
+    fc.num
+FROM FriendCounts fc
+CROSS JOIN MaxFriends mf
+WHERE fc.num = mf.max_num;
