@@ -14,6 +14,6 @@ SELECT
 FROM FirstLogin f
 LEFT JOIN Activity a
     ON f.player_id = a.player_id
-   AND a.event_date = DATE_ADD(f.first_date, INTERVAL 1 DAY);
+    AND DATEDIFF(a.event_date,f.first_date)=1;
 
 
